@@ -1,0 +1,77 @@
+--------- beginning of /dev/log/main
+01-19 17:17:36.374 24617 24617 D dalvikvm: zygote get new systemTid : 24617
+01-19 17:17:36.438 24617 24621 D dalvikvm: threadid=2: interp stack at 0x4f1be000
+01-19 17:17:36.473 24617 24623 D dalvikvm: threadid=3: interp stack at 0x4f2c6000
+01-19 17:17:36.477 24617 24623 D dalvikvm: Elevating priority from 0 to -8
+01-19 17:17:36.501 24617 24624 D dalvikvm: threadid=4: interp stack at 0x4f3ce000
+01-19 17:17:36.502 24617 24617 D dalvikvm: zygote get thread init done
+01-19 17:17:36.503 24617 24617 D dalvikvm: create interp thread : stack size=32KB
+01-19 17:17:36.503 24617 24617 D dalvikvm: create new thread
+01-19 17:17:36.503 24617 24617 D dalvikvm: update thread list
+01-19 17:17:36.513 24617 24625 D dalvikvm: threadid=5: interp stack at 0x52029000
+01-19 17:17:36.513 24617 24625 D dalvikvm: threadid=5: created from interp
+01-19 17:17:36.514 24617 24617 D dalvikvm: start new thread
+01-19 17:17:36.514 24617 24617 D dalvikvm: create interp thread : stack size=32KB
+01-19 17:17:36.515 24617 24617 D dalvikvm: create new thread
+01-19 17:17:36.515 24617 24617 D dalvikvm: update thread list
+01-19 17:17:36.516 24617 24625 D dalvikvm: threadid=5: notify debugger
+01-19 17:17:36.516 24617 24625 D dalvikvm: threadid=5 (ReferenceQueueDaemon): calling run()
+01-19 17:17:36.519 24617 24626 D dalvikvm: threadid=6: interp stack at 0x52131000
+01-19 17:17:36.519 24617 24626 D dalvikvm: threadid=6: created from interp
+01-19 17:17:36.519 24617 24617 D dalvikvm: start new thread
+01-19 17:17:36.519 24617 24617 D dalvikvm: create interp thread : stack size=32KB
+01-19 17:17:36.519 24617 24617 D dalvikvm: create new thread
+01-19 17:17:36.520 24617 24617 D dalvikvm: update thread list
+01-19 17:17:36.520 24617 24626 D dalvikvm: threadid=6: notify debugger
+01-19 17:17:36.520 24617 24626 D dalvikvm: threadid=6 (FinalizerDaemon): calling run()
+01-19 17:17:36.521 24617 24627 D dalvikvm: threadid=7: interp stack at 0x52239000
+01-19 17:17:36.521 24617 24627 D dalvikvm: threadid=7: created from interp
+01-19 17:17:36.521 24617 24617 D dalvikvm: start new thread
+01-19 17:17:36.521 24617 24617 D Zygote  : fork pid : 0
+01-19 17:17:36.522 24617 24627 D dalvikvm: threadid=7: notify debugger
+01-19 17:17:36.522 24617 24627 D dalvikvm: threadid=7 (FinalizerWatchdogDaemon): calling run()
+01-19 17:17:36.656 24617 24630 D dalvikvm: threadid=8: interp stack at 0x5263f000
+01-19 17:17:36.657 24617 24631 D dalvikvm: threadid=9: interp stack at 0x52747000
+01-19 17:17:36.857 24617 24617 E Trace   : error opening trace file: No such file or directory (2)
+01-19 17:17:36.944 24617 24617 D dalvikvm: open_cached_dex_file : /data/app/com.mxtech.logcollector-1.apk /data/dalvik-cache/data@app@com.mxtech.logcollector-1.apk@classes.dex
+01-19 17:17:37.213 24617 24617 I dalvikvm: Could not find method android.content.res.Configuration.setLocale, referenced from method com.mxtech.app.MXApplication.onConfigurationChanged
+01-19 17:17:37.213 24617 24617 W dalvikvm: VFY: unable to resolve virtual method 245: Landroid/content/res/Configuration;.setLocale (Ljava/util/Locale;)V
+01-19 17:17:37.213 24617 24617 D dalvikvm: VFY: replacing opcode 0x6e at 0x0056
+01-19 17:17:37.229 24617 24617 D dalvikvm: create interp thread : stack size=32KB
+01-19 17:17:37.229 24617 24617 D dalvikvm: create new thread
+01-19 17:17:37.231 24617 24617 D dalvikvm: update thread list
+01-19 17:17:37.231 24617 24632 D dalvikvm: threadid=10: interp stack at 0x527ef000
+01-19 17:17:37.232 24617 24632 D dalvikvm: threadid=10: created from interp
+01-19 17:17:37.232 24617 24617 D dalvikvm: start new thread
+01-19 17:17:37.234 24617 24617 I MX      : Application=[MX Log Collector] Version=[1.12] Manufacturer=[TCT] Model=[ALCATEL ONE TOUCH 5020D] Display=[Jelly Bean] Brand=[TCT] Product=[Megane] Android=[4.1.1]
+01-19 17:17:37.235 24617 24617 I MX      : Installer=[com.android.vending]
+--------- beginning of /dev/log/system
+01-19 17:17:37.237 24617 24617 D ActivityThread: BIND_APPLICATION handled : 0 / AppBindData{appInfo=ApplicationInfo{417e59d0 com.mxtech.logcollector}}
+01-19 17:17:37.238 24617 24632 D dalvikvm: threadid=10: notify debugger
+01-19 17:17:37.238 24617 24632 D dalvikvm: threadid=10 (SharedPreferencesImpl-load): calling run()
+01-19 17:17:37.238 24617 24632 D dalvikvm: threadid=10: exiting
+01-19 17:17:37.238 24617 24632 D dalvikvm: threadid=10: bye!
+01-19 17:17:37.359 24617 24617 V MX.LogCollector: Create Activity
+01-19 17:17:37.804 24617 24617 D ActivityThread: ACT-AM_ON_RESUME_CALLED ActivityRecord{417e7158 token=android.os.BinderProxy@417e6818 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-19 17:17:37.826 24617 24617 D ActivityThread: ACT-LAUNCH_ACTIVITY handled : 0 / ActivityRecord{417e7158 token=android.os.BinderProxy@417e6818 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-19 17:17:38.307 24617 24617 D libEGL  : loaded /vendor/lib/egl/libEGL_mtk.so
+01-19 17:17:38.369 24617 24617 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_mtk.so
+01-19 17:17:38.403 24617 24617 D libEGL  : loaded /vendor/lib/egl/libGLESv2_mtk.so
+01-19 17:17:38.914 24617 24617 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 17:17:38.940 24617 24617 D OpenGLRenderer: Enabling debug mode 0
+01-19 17:17:39.297 24617 24617 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 17:17:39.333 24617 24617 I Choreographer: Skipped 78 frames!  The application may be doing too much work on its main thread.
+01-19 17:17:39.909 24617 24617 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 17:17:39.933 24617 24617 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 17:17:40.036 24617 24617 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 17:17:43.667 24617 24617 I SurfaceTextureClient: [0x51fa4488] frames:3, duration:4.327000, fps:0.693251
+01-19 17:17:44.477 24617 24617 V Provider/Setting: invalidate [system]: current 630 != cached 0
+01-19 17:17:44.497 24617 24617 V Provider/Setting: from db cache, name = sound_effects_enabled value = 0
+01-19 17:17:44.561 24617 24617 D dalvikvm: create interp thread : stack size=32KB
+01-19 17:17:44.561 24617 24617 D dalvikvm: create new thread
+01-19 17:17:44.563 24617 24617 D dalvikvm: update thread list
+01-19 17:17:44.566 24617 24702 D dalvikvm: threadid=10: interp stack at 0x532d9000
+01-19 17:17:44.567 24617 24702 D dalvikvm: threadid=10: created from interp
+01-19 17:17:44.567 24617 24617 D dalvikvm: start new thread
+01-19 17:17:44.579 24617 24702 D dalvikvm: threadid=10: notify debugger
+01-19 17:17:44.579 24617 24702 D dalvikvm: threadid=10 (java.lang.ProcessManager): calling run()

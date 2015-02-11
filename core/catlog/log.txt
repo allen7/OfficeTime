@@ -1,0 +1,653 @@
+01-20 08:34:26.627: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:34:27.410: E/Gmail(8845): android.content.pm.PackageManager$NameNotFoundException: com.google.android.email
+01-20 08:34:36.643: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:34:36.644: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:34:36.644: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:34:36.646: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:34:46.659: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:34:46.659: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:34:46.660: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:34:46.660: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:34:56.671: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:34:56.671: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:34:56.671: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:34:56.672: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:35:06.681: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:06.682: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:35:06.682: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:06.683: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:35:16.689: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:16.690: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:35:16.690: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:16.696: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:35:26.703: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:26.703: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:35:26.704: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:26.705: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:35:36.716: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:36.717: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:35:36.717: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:36.722: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:35:46.729: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:46.730: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:35:46.730: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:46.731: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:35:56.743: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:56.744: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:35:56.745: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:35:56.747: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:36:06.920: D/FotaDB(9228): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:36:11.194: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:11.194: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:36:11.194: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:11.196: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:36:11.271: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:11.272: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:36:11.272: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:11.273: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:36:15.159: D/StrictMode(9426): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:36:15.159: D/StrictMode(9426): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:36:21.276: V/MediaProvider/DrmHelper(3880): pid=1943, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:36:21.506: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:21.506: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:36:21.507: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:21.526: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:36:23.655: D/FotaDB(9696): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:36:24.709: D/StrictMode(9715): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:36:24.709: D/StrictMode(9715): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:36:31.557: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:31.557: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:36:31.558: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:31.564: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:36:41.578: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:41.579: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:36:41.579: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:41.580: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:36:51.587: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:51.587: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:36:51.587: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:36:51.588: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:37:01.599: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:01.600: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:37:01.600: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:01.601: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:37:11.607: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:11.608: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:37:11.608: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:11.609: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:37:21.621: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:21.622: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:37:21.622: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:21.628: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:37:31.635: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:31.635: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:37:31.636: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:31.637: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:37:41.658: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:41.658: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:37:41.658: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:41.659: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:37:51.695: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:51.695: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:37:51.696: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:37:51.700: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:38:01.879: D/FotaDB(10528): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:38:05.315: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:05.315: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:38:05.315: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:05.318: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:38:05.386: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:05.386: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:38:05.387: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:05.392: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:38:15.398: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:15.399: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:38:15.399: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:15.400: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:38:25.412: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:25.412: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:38:25.413: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:25.418: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:38:35.429: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:35.429: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:38:35.430: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:35.431: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:38:45.436: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:45.436: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:38:45.437: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:45.437: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:38:55.449: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:55.449: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:38:55.450: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:38:55.450: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:39:01.987: V/MediaProvider/DrmHelper(3880): pid=1943, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:39:05.529: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:05.529: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:39:05.530: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:05.534: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:39:15.543: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:15.543: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:39:15.544: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:15.545: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:39:25.556: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:25.557: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:39:25.557: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:25.562: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:39:35.572: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:35.573: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:39:35.573: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:35.575: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:39:45.602: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:45.602: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:39:45.603: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:45.604: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:39:55.624: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:55.625: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:39:55.625: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:39:55.626: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:40:05.776: D/FotaDB(11628): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:40:10.135: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:10.139: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:40:10.139: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:10.140: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:40:10.251: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:10.253: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:40:10.256: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:10.256: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:40:14.896: D/StrictMode(11875): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:40:14.896: D/StrictMode(11875): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:40:20.898: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:20.901: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:40:20.901: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:20.902: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:40:25.564: D/FotaDB(12150): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:40:26.579: D/StrictMode(12171): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:40:26.579: D/StrictMode(12171): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:40:31.042: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:31.044: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:40:31.045: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:31.055: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:40:32.436: V/MediaProvider/DrmHelper(3880): pid=1943, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:40:41.087: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:41.087: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:40:41.088: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:41.089: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:40:51.191: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:51.192: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:40:51.192: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:40:51.193: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:41:01.204: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:01.204: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:41:01.205: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:01.206: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:41:11.222: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:11.223: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:41:11.223: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:11.224: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:41:21.238: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:21.238: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:41:21.238: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:21.239: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:41:31.246: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:31.246: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:41:31.247: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:31.247: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:41:41.259: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:41.259: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:41:41.259: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:41.260: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:41:51.265: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:51.266: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:41:51.266: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:41:51.267: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:42:01.501: D/FotaDB(13026): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:42:04.838: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:04.839: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:42:04.839: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:04.840: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:42:04.924: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:04.924: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:42:04.924: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:04.925: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:42:14.940: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:14.941: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:42:14.941: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:14.942: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:42:24.953: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:24.953: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:42:24.954: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:24.954: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:42:34.966: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:34.966: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:42:34.966: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:34.967: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:42:44.981: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:44.982: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:42:44.982: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:44.982: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:42:54.993: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:54.994: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:42:54.994: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:42:54.995: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:43:05.006: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:05.006: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:43:05.012: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:05.013: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:43:15.041: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:15.041: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:43:15.041: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:15.042: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:43:25.047: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:25.048: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:43:25.048: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:25.049: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:43:35.060: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:35.061: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:43:35.061: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:35.062: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:43:45.074: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:45.075: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:43:45.075: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:45.076: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:43:55.087: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:55.087: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:43:55.088: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:43:55.088: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:44:09.875: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:09.877: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:44:09.885: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:09.886: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:44:10.176: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:10.177: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:44:10.183: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:10.190: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:44:16.611: D/StrictMode(14100): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:44:16.611: D/StrictMode(14100): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:44:20.375: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:20.375: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:44:20.376: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:20.376: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:44:23.934: V/MediaProvider/DrmHelper(3880): pid=1943, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:44:28.643: D/FotaDB(14383): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:44:29.719: D/StrictMode(14402): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:44:29.719: D/StrictMode(14402): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:44:30.647: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:30.647: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:44:30.652: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:30.653: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:44:40.768: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:40.770: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:44:40.770: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:40.771: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:44:50.776: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:50.777: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:44:50.777: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:44:50.783: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:45:00.789: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:00.789: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:45:00.790: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:00.791: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:45:10.802: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:10.802: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:45:10.802: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:10.808: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:45:20.817: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:20.817: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:45:20.817: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:20.818: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:45:30.826: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:30.826: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:45:30.827: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:30.827: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:45:40.838: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:40.838: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:45:40.839: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:40.844: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:45:50.850: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:50.851: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:45:50.851: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:45:50.853: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:46:04.094: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:04.095: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:46:04.095: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:04.096: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:46:04.193: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:04.193: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:46:04.193: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:04.194: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:46:14.205: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:14.205: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:46:14.206: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:14.206: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:46:24.217: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:24.217: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:46:24.218: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:24.218: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:46:34.229: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:34.229: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:46:34.230: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:34.230: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:46:44.241: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:44.242: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:46:44.242: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:44.243: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:46:54.261: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:54.261: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:46:54.262: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:46:54.262: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:47:04.273: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:04.274: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:47:04.274: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:04.275: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:47:14.286: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:14.286: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:47:14.287: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:14.287: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:47:24.298: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:24.299: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:47:24.299: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:24.300: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:47:34.311: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:34.311: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:47:34.312: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:34.313: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:47:44.324: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:44.324: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:47:44.324: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:44.325: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:47:54.336: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:54.336: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:47:54.337: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:47:54.337: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:48:08.499: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:08.505: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:48:08.513: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:08.522: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:48:08.884: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:08.884: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:48:08.884: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:08.885: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:48:16.142: I/ActivityManager(361): Process com.rec.kuciaba.andrzej.officetime (pid 1943) has died.
+01-20 08:48:16.142: V/ActivityManager(361): Dying app: ProcessRecord{426cd488 1943:com.rec.kuciaba.andrzej.officetime/u0a117}, pid: 1943, thread: android.os.BinderProxy@42a57828
+01-20 08:48:16.143: W/ActivityManager(361): Scheduling restart of crashed service com.rec.kuciaba.andrzej.officetime/.RECTimeService in 5000ms
+01-20 08:48:16.143: V/ActivityManager(361): Removing app ProcessRecord{426cd488 0:com.rec.kuciaba.andrzej.officetime/u0a117} from list [ActivityRecord{41e7cfe8 com.android.phone/.InCallScreen}, ActivityRecord{426eb120 com.mxtech.logcollector/.ActivityCollector}, ActivityRecord{41d26660 com.jrdcom.launcher/.Launcher}] with 3 entries
+01-20 08:48:16.145: V/ActivityManager(361): Removing app ProcessRecord{426cd488 0:com.rec.kuciaba.andrzej.officetime/u0a117} from list [] with 0 entries
+01-20 08:48:16.145: V/ActivityManager(361): Removing app ProcessRecord{426cd488 0:com.rec.kuciaba.andrzej.officetime/u0a117} from list [] with 0 entries
+01-20 08:48:16.145: V/ActivityManager(361): Removing app ProcessRecord{426cd488 0:com.rec.kuciaba.andrzej.officetime/u0a117} from list [] with 0 entries
+01-20 08:48:16.145: V/ActivityManager(361): Removing app ProcessRecord{426cd488 0:com.rec.kuciaba.andrzej.officetime/u0a117} from list [] with 0 entries
+01-20 08:48:20.011: D/FotaDB(16305): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:48:21.193: I/ActivityManager(361): Start proc com.rec.kuciaba.andrzej.officetime for service com.rec.kuciaba.andrzej.officetime/.RECTimeService: pid=16339 uid=10117 gids={1028}
+01-20 08:48:21.462: V/ActivityManager(361): Binding process pid 16339 to record ProcessRecord{42f81088 16339:com.rec.kuciaba.andrzej.officetime/u0a117}
+01-20 08:48:21.463: V/ActivityManager(361): New app record ProcessRecord{42f81088 16339:com.rec.kuciaba.andrzej.officetime/u0a117} thread=android.os.BinderProxy@42615df8 pid=16339
+01-20 08:48:21.616: D/dalvikvm(16339): open_cached_dex_file : /data/app/com.rec.kuciaba.andrzej.officetime-2.apk /data/dalvik-cache/data@app@com.rec.kuciaba.andrzej.officetime-2.apk@classes.dex
+01-20 08:48:21.642: D/ActivityThread(16339): BIND_APPLICATION handled : 0 / AppBindData{appInfo=ApplicationInfo{417eb548 com.rec.kuciaba.andrzej.officetime}}
+01-20 08:48:21.707: D/ActivityThread(16339): SVC-Creating service: CreateServiceData{token=android.os.BinderProxy@417ec048 className=com.rec.kuciaba.andrzej.officetime.RECTimeService packageName=com.rec.kuciaba.andrzej.officetime intent=null}
+01-20 08:48:21.712: D/ActivityThread(16339): SVC-CREATE_SERVICE handled : 0 / CreateServiceData{token=android.os.BinderProxy@417ec048 className=com.rec.kuciaba.andrzej.officetime.RECTimeService packageName=com.rec.kuciaba.andrzej.officetime intent=null}
+01-20 08:48:21.713: D/ActivityThread(16339): SVC-Calling onStartCommand: com.rec.kuciaba.andrzej.officetime.RECTimeService@4180af48, flags=0, startId=11
+01-20 08:48:21.780: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=3 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:21.780: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:48:21.781: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:21.781: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:48:22.383: D/StrictMode(16320): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:48:22.383: D/StrictMode(16320): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:48:26.636: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:26.636: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:48:26.637: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:26.638: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:48:26.757: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:26.759: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:48:26.759: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:26.760: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:48:32.882: V/MediaProvider/DrmHelper(3880): pid=16339, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:48:35.021: D/StrictMode(16712): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:48:35.021: D/StrictMode(16712): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:48:36.844: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:36.850: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:48:36.850: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:36.858: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:48:40.346: D/StrictMode(16903): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:48:40.346: D/StrictMode(16903): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:48:46.978: V/MediaProvider/DrmHelper(3880): pid=16339, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:48:47.401: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:47.402: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:48:47.404: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:47.405: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:48:54.582: I/Utils(3749): Plugin ObjectCreationException
+01-20 08:48:57.434: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:57.434: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:48:57.435: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:48:57.436: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:49:07.446: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:07.446: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:49:07.447: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:07.451: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:49:17.472: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:17.473: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:49:17.473: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:17.474: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:49:27.490: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:27.491: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:49:27.491: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:27.492: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:49:37.507: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:37.508: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:49:37.508: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:37.516: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:49:47.531: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:47.532: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:49:47.532: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:47.533: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:49:57.549: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:57.549: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:49:57.550: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:49:57.551: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:50:11.852: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:11.854: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:50:11.856: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:11.860: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:50:12.899: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:12.899: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:50:12.900: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:12.902: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:50:16.941: D/StrictMode(17866): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:50:16.941: D/StrictMode(17866): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:50:23.100: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:23.103: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:50:23.104: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:23.211: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:50:24.600: V/MediaProvider/DrmHelper(3880): pid=16339, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:50:26.018: D/FotaDB(18120): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:50:28.531: D/StrictMode(18140): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:50:28.531: D/StrictMode(18140): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:50:33.416: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:33.419: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:50:33.419: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:33.420: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:50:35.639: V/MediaProvider/DrmHelper(3880): pid=16339, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:50:43.444: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:43.444: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:50:43.445: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:43.448: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:50:53.462: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:53.463: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:50:53.463: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:50:53.468: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:51:03.475: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:03.476: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:51:03.476: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:03.477: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:51:13.488: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:13.489: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:51:13.489: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:13.490: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:51:23.502: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:23.502: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:51:23.503: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:23.505: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:51:33.515: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:33.515: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:51:33.516: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:33.517: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:51:43.528: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:43.528: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:51:43.529: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:43.529: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:51:53.541: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:53.541: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:51:53.542: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:51:53.548: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:52:03.699: D/FotaDB(18964): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:52:07.875: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:07.876: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:52:07.876: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:07.877: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:52:08.054: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:08.058: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:52:08.059: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:08.061: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:52:12.355: D/StrictMode(19165): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:52:12.355: D/StrictMode(19165): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:52:17.797: D/StrictMode(19342): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:52:17.797: D/StrictMode(19342): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:52:18.119: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:18.120: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:52:18.120: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:18.133: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:52:23.713: V/MediaProvider/DrmHelper(3880): pid=16339, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:52:28.181: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:28.181: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:52:28.181: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:28.287: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:52:38.296: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:38.297: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:52:38.297: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:38.298: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:52:48.309: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:48.310: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:52:48.310: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:48.311: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:52:58.434: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:58.435: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:52:58.436: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:52:58.445: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:53:08.468: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:08.468: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:53:08.469: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:08.470: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:53:18.477: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:18.478: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:53:18.478: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:18.479: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:53:28.490: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:28.491: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:53:28.491: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:28.493: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:53:38.504: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:38.505: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:53:38.505: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:38.506: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:53:48.517: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:48.517: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:53:48.517: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:48.518: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:53:58.539: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:58.539: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:53:58.540: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:53:58.541: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:54:08.764: D/FotaDB(20366): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:54:11.895: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:11.896: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:54:11.896: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:11.897: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:54:11.987: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:11.987: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:54:11.988: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:11.989: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:54:22.000: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:22.000: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:54:22.001: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:22.001: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:54:32.013: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:32.014: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:54:32.014: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:32.015: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:54:42.025: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:42.026: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:54:42.026: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:42.027: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:54:52.038: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:52.038: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:54:52.039: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:54:52.040: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:55:02.110: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:02.112: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:55:02.112: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:02.113: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:55:12.120: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:12.120: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:55:12.120: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:12.121: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:55:22.128: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:22.129: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:55:22.129: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:22.130: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:55:32.141: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:32.141: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:55:32.142: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:32.142: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:55:42.154: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:42.155: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:55:42.155: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:42.156: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:55:52.168: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:52.169: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:55:52.169: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:55:52.170: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:56:06.502: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=1 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:06.512: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:56:06.513: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:06.517: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:56:06.913: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:06.929: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:56:06.930: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:06.947: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:56:11.028: D/StrictMode(21332): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:56:11.028: D/StrictMode(21332): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:56:17.040: V/MediaProvider/DrmHelper(3880): pid=16339, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:56:17.046: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:17.047: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:56:17.047: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:17.048: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:56:20.399: D/FotaDB(21622): Some error occur when create table android.database.sqlite.SQLiteException: table updates already exists (code 1): , while compiling: CREATE TABLE updates (_id integer primary key autoincrement, versionNum text, serverChkSum text, opreateStatus text, downloadResult text, downloadReported integer, downloadReportLog text, upgradeResult text, upgradeReported integer, upgradeReportLog text )
+01-20 08:56:21.503: D/StrictMode(21635): 	at android.os.Parcel.readExceptionCode(Parcel.java:1407)
+01-20 08:56:21.503: D/StrictMode(21635): 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:137)
+01-20 08:56:27.210: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:27.211: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:56:27.211: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:27.239: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:56:28.478: V/MediaProvider/DrmHelper(3880): pid=16339, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:56:37.393: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:37.394: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:56:37.395: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:37.396: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:56:47.404: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:47.405: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:56:47.405: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:47.405: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:56:54.498: V/MediaProvider/DrmHelper(22028): pid=16339, name=com.rec.kuciaba.andrzej.officetime, allow=false
+01-20 08:56:57.418: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:57.419: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:56:57.419: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:56:57.421: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:57:07.455: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:57:07.455: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:57:07.457: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:57:07.462: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:57:17.466: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:57:17.466: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:57:17.467: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:57:17.467: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable
+01-20 08:57:27.484: V/NotificationService(361): enqueueNotificationInternal: pkg=com.rec.kuciaba.andrzej.officetime id=2 notification=Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:57:27.485: V/NotificationService(361): notifications are enabled for com.rec.kuciaba.andrzej.officetime
+01-20 08:57:27.485: V/NotificationService(361): Assigned score=20 to Notification(pri=2 contentView=com.rec.kuciaba.andrzej.officetime/0x109007d vibrate=null sound=null defaults=0x0 flags=0x60 kind=[null])
+01-20 08:57:27.486: D/NotificationService(361): pakage=com.rec.kuciaba.andrzej.officetime,In NotificationMangerService, this notification soud, leds and vibrate enable

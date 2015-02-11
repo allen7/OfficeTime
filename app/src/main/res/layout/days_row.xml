@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#E6E6E6">
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+    <TextView android:background="@drawable/cell"
+        android:id="@+id/day1"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text=""/>
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/hours1"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/day2"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/hours2"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/day3"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/hours3"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        >
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/day4"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/day5"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/hours5"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/day6"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/hours6"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/day7"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+        <TextView android:background="@drawable/cell"
+            android:id="@+id/hours7"
+            android:padding="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text=""/>
+    </LinearLayout>
+
+</TableRow>

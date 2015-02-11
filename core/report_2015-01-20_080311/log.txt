@@ -1,0 +1,88 @@
+--------- beginning of /dev/log/main
+01-20 08:03:05.388  4376  4376 D dalvikvm: zygote get new systemTid : 4376
+01-20 08:03:05.398  4376  4379 D dalvikvm: threadid=2: interp stack at 0x4f1be000
+01-20 08:03:05.417  4376  4382 D dalvikvm: threadid=3: interp stack at 0x4f2c6000
+01-20 08:03:05.417  4376  4382 D dalvikvm: Elevating priority from 0 to -8
+01-20 08:03:05.417  4376  4383 D dalvikvm: threadid=4: interp stack at 0x4f3ce000
+01-20 08:03:05.417  4376  4376 D dalvikvm: zygote get thread init done
+01-20 08:03:05.419  4376  4376 D dalvikvm: create interp thread : stack size=32KB
+01-20 08:03:05.420  4376  4376 D dalvikvm: create new thread
+01-20 08:03:05.420  4376  4376 D dalvikvm: update thread list
+01-20 08:03:05.420  4376  4384 D dalvikvm: threadid=5: interp stack at 0x52029000
+01-20 08:03:05.420  4376  4384 D dalvikvm: threadid=5: created from interp
+01-20 08:03:05.420  4376  4376 D dalvikvm: start new thread
+01-20 08:03:05.420  4376  4376 D dalvikvm: create interp thread : stack size=32KB
+01-20 08:03:05.420  4376  4376 D dalvikvm: create new thread
+01-20 08:03:05.421  4376  4376 D dalvikvm: update thread list
+01-20 08:03:05.421  4376  4384 D dalvikvm: threadid=5: notify debugger
+01-20 08:03:05.421  4376  4384 D dalvikvm: threadid=5 (ReferenceQueueDaemon): calling run()
+01-20 08:03:05.421  4376  4385 D dalvikvm: threadid=6: interp stack at 0x52131000
+01-20 08:03:05.421  4376  4385 D dalvikvm: threadid=6: created from interp
+01-20 08:03:05.421  4376  4376 D dalvikvm: start new thread
+01-20 08:03:05.421  4376  4376 D dalvikvm: create interp thread : stack size=32KB
+01-20 08:03:05.421  4376  4376 D dalvikvm: create new thread
+01-20 08:03:05.421  4376  4376 D dalvikvm: update thread list
+01-20 08:03:05.421  4376  4385 D dalvikvm: threadid=6: notify debugger
+01-20 08:03:05.421  4376  4385 D dalvikvm: threadid=6 (FinalizerDaemon): calling run()
+01-20 08:03:05.421  4376  4386 D dalvikvm: threadid=7: interp stack at 0x52239000
+01-20 08:03:05.421  4376  4386 D dalvikvm: threadid=7: created from interp
+01-20 08:03:05.421  4376  4376 D dalvikvm: start new thread
+01-20 08:03:05.422  4376  4376 D Zygote  : fork pid : 0
+01-20 08:03:05.430  4376  4386 D dalvikvm: threadid=7: notify debugger
+01-20 08:03:05.430  4376  4386 D dalvikvm: threadid=7 (FinalizerWatchdogDaemon): calling run()
+01-20 08:03:05.439  4376  4387 D dalvikvm: threadid=8: interp stack at 0x5263f000
+01-20 08:03:05.445  4376  4388 D dalvikvm: threadid=9: interp stack at 0x52747000
+01-20 08:03:05.476  4376  4376 E Trace   : error opening trace file: No such file or directory (2)
+01-20 08:03:05.492  4376  4376 D dalvikvm: open_cached_dex_file : /data/app/com.mxtech.logcollector-1.apk /data/dalvik-cache/data@app@com.mxtech.logcollector-1.apk@classes.dex
+01-20 08:03:05.747  4376  4376 I dalvikvm: Could not find method android.content.res.Configuration.setLocale, referenced from method com.mxtech.app.MXApplication.onConfigurationChanged
+01-20 08:03:05.747  4376  4376 W dalvikvm: VFY: unable to resolve virtual method 245: Landroid/content/res/Configuration;.setLocale (Ljava/util/Locale;)V
+01-20 08:03:05.747  4376  4376 D dalvikvm: VFY: replacing opcode 0x6e at 0x0056
+01-20 08:03:05.767  4376  4376 D dalvikvm: create interp thread : stack size=32KB
+01-20 08:03:05.767  4376  4376 D dalvikvm: create new thread
+01-20 08:03:05.768  4376  4376 D dalvikvm: update thread list
+01-20 08:03:05.768  4376  4391 D dalvikvm: threadid=10: interp stack at 0x527ef000
+01-20 08:03:05.768  4376  4391 D dalvikvm: threadid=10: created from interp
+01-20 08:03:05.768  4376  4376 D dalvikvm: start new thread
+01-20 08:03:05.769  4376  4391 D dalvikvm: threadid=10: notify debugger
+01-20 08:03:05.769  4376  4391 D dalvikvm: threadid=10 (SharedPreferencesImpl-load): calling run()
+01-20 08:03:05.770  4376  4391 D dalvikvm: threadid=10: exiting
+01-20 08:03:05.770  4376  4391 D dalvikvm: threadid=10: bye!
+01-20 08:03:05.772  4376  4376 I MX      : Application=[MX Log Collector] Version=[1.12] Manufacturer=[TCT] Model=[ALCATEL ONE TOUCH 5020D] Display=[Jelly Bean] Brand=[TCT] Product=[Megane] Android=[4.1.1]
+01-20 08:03:05.772  4376  4376 I MX      : Installer=[com.android.vending]
+01-20 08:03:05.798  4376  4376 V MX.LogCollector: Create Activity
+01-20 08:03:06.145  4376  4376 V MX.LogCollector: Create Activity
+01-20 08:03:06.171  4376  4376 V MX.LogCollector: Create Activity
+01-20 08:03:06.247  4376  4376 V MX.LogCollector: Create Activity
+01-20 08:03:06.414  4376  4376 D libEGL  : loaded /vendor/lib/egl/libEGL_mtk.so
+01-20 08:03:06.431  4376  4376 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_mtk.so
+01-20 08:03:06.439  4376  4376 D libEGL  : loaded /vendor/lib/egl/libGLESv2_mtk.so
+01-20 08:03:06.937  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:06.947  4376  4376 D OpenGLRenderer: Enabling debug mode 0
+01-20 08:03:07.042  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:07.088  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:07.109  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:07.147  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:07.187  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:07.219  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:07.306  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:07.307  4376  4376 I Choreographer: Skipped 50 frames!  The application may be doing too much work on its main thread.
+01-20 08:03:07.578  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:07.884  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:07.960  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:08.049  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:08.235  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:08.294  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:08.392  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:08.444  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:10.154  4376  4376 I SurfaceTextureClient: [0x51fce100] frames:2, duration:1.827000, fps:1.094690
+01-20 08:03:10.161  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:03:10.911  4376  4376 V Provider/Setting: invalidate [system]: current 844 != cached 0
+01-20 08:03:10.917  4376  4376 V Provider/Setting: from db cache, name = sound_effects_enabled value = 0
+01-20 08:03:10.970  4376  4376 D dalvikvm: create interp thread : stack size=32KB
+01-20 08:03:10.970  4376  4376 D dalvikvm: create new thread
+01-20 08:03:10.971  4376  4376 D dalvikvm: update thread list
+01-20 08:03:10.971  4376  4413 D dalvikvm: threadid=10: interp stack at 0x53a7e000
+01-20 08:03:10.971  4376  4413 D dalvikvm: threadid=10: created from interp
+01-20 08:03:10.971  4376  4376 D dalvikvm: start new thread
+01-20 08:03:10.971  4376  4413 D dalvikvm: threadid=10: notify debugger
+01-20 08:03:10.972  4376  4413 D dalvikvm: threadid=10 (java.lang.ProcessManager): calling run()

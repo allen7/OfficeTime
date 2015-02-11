@@ -1,0 +1,15 @@
+--------- beginning of /dev/log/main
+01-19 18:22:58.287  2957  2957 D OpenGLRenderer: Flushing caches (mode 0)
+01-19 18:22:58.307  2957  2957 W MMUMapper: invalid operation for unregister MVA with VA(0x53170000) size(1536000) f(0x5)
+01-19 18:22:58.307  2957  2957 W MMUMapper: invalid operation for unregister MVA with VA(0x538e1000) size(1536000) f(0x5)
+01-19 18:22:58.320  2957  2957 I SurfaceTextureClient: [STC::queueBuffer] this:0x51f91db0, api:1, last queue time elapsed :92339 ms
+01-19 18:22:58.320  2957  2957 I SurfaceTextureClient: [0x51f91db0] frames:2, duration:92.338997, fps:0.021659
+01-19 18:22:58.324  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:22:58.331  2957  2957 D OpenGLRenderer: Flushing caches (mode 0)
+01-19 18:23:04.363  2957  2957 I SurfaceTextureClient: [STC::queueBuffer] this:0x51f91db0, api:1, last queue time elapsed :6047 ms
+01-19 18:23:04.364  2957  2957 I SurfaceTextureClient: [0x51f91db0] frames:1, duration:6.047000, fps:0.165355
+01-19 18:23:30.862  2957  2957 I SurfaceTextureClient: [STC::queueBuffer] this:0x51f91db0, api:1, last queue time elapsed :26496 ms
+01-19 18:23:30.862  2957  2957 I SurfaceTextureClient: [0x51f91db0] frames:1, duration:26.496000, fps:0.037740
+01-19 18:23:32.088  2957  2957 I SurfaceTextureClient: [0x51f91db0] frames:1, duration:1.226000, fps:0.815205
+01-19 18:23:33.116  2957  2957 I SurfaceTextureClient: [0x51f91db0] frames:2, duration:1.024000, fps:1.952127
+01-19 18:23:33.292  2957  2957 V Provider/Setting: from settings cache , name = sound_effects_enabled value = 0

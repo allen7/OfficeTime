@@ -1,0 +1,15 @@
+--------- beginning of /dev/log/system
+01-19 18:24:29.276  2957  2957 D ActivityThread: ACT-SHOW_WINDOW handled : 0 / android.os.BinderProxy@417e8808
+--------- beginning of /dev/log/main
+01-19 18:24:29.363  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:24:29.374  2957  2957 V MX.LogCollector: Create Activity
+01-19 18:24:29.467  2957  2957 D ActivityThread: ACT-AM_ON_RESUME_CALLED ActivityRecord{418a4d48 token=android.os.BinderProxy@418a4470 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-19 18:24:29.482  2957  2957 D ActivityThread: ACT-LAUNCH_ACTIVITY handled : 0 / ActivityRecord{418a4d48 token=android.os.BinderProxy@418a4470 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-19 18:24:29.497  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:24:29.570  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:24:29.626  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:24:29.723  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:24:29.757  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:24:30.742  2957  2957 I SurfaceTextureClient: [0x51f91db0] frames:2, duration:1.089000, fps:1.835248
+01-19 18:24:30.749  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:24:31.282  2957  2957 V Provider/Setting: from settings cache , name = sound_effects_enabled value = 0

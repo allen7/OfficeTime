@@ -1,0 +1,60 @@
+--------- beginning of /dev/log/system
+01-20 08:06:33.990  4376  4376 D ActivityThread: ACT-AM_ON_PAUSE_CALLED ActivityRecord{417eb300 token=android.os.BinderProxy@417e83f0 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-20 08:06:34.042  4376  4376 D ActivityThread: ACT-PAUSE_ACTIVITY_FINISHING handled : 0 / android.os.BinderProxy@417e83f0
+01-20 08:06:34.042  4376  4376 D ActivityThread: ACT-AM_ON_RESUME_CALLED ActivityRecord{417e6508 token=android.os.BinderProxy@417e5bc8 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-20 08:06:34.042  4376  4376 D ActivityThread: ACT-RESUME_ACTIVITY handled : 0 / android.os.BinderProxy@417e5bc8
+--------- beginning of /dev/log/main
+01-20 08:06:34.242  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:06:34.254  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x536e5000) size(1536000) f(0x5)
+01-20 08:06:34.256  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x543fa000) size(1536000) f(0x5)
+01-20 08:06:34.297  4376  4376 I SurfaceTextureClient: [STC::queueBuffer] this:0x51fcd640, api:1, last queue time elapsed :206952 ms
+01-20 08:06:34.298  4376  4376 I SurfaceTextureClient: [0x51fcd640] frames:2, duration:206.951996, fps:0.009664
+01-20 08:06:34.313  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:34.333  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:06:34.354  4376  4376 D ActivityThread: ACT-DESTROY_ACTIVITY handled : 1 / android.os.BinderProxy@417e83f0
+01-20 08:06:34.494  4376  4376 D ActivityThread: ACT-AM_ON_PAUSE_CALLED ActivityRecord{417e6508 token=android.os.BinderProxy@417e5bc8 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-20 08:06:34.510  4376  4376 D ActivityThread: ACT-PAUSE_ACTIVITY handled : 1 / android.os.BinderProxy@417e5bc8
+01-20 08:06:35.090  4376  4376 D ActivityThread: ACT-STOP_ACTIVITY_SHOW handled : 0 / android.os.BinderProxy@417e5bc8
+01-20 08:06:37.084  4376  4376 D ActivityThread: ACT-HIDE_WINDOW handled : 0 / android.os.BinderProxy@417e5bc8
+01-20 08:06:37.135  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:06:37.155  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x52ebb000) size(1536000) f(0x5)
+01-20 08:06:37.155  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x53c40000) size(1536000) f(0x5)
+01-20 08:06:37.167  4376  4376 D ActivityThread: ACT-HIDE_WINDOW handled : 0 / android.os.BinderProxy@417e6940
+01-20 08:06:37.167  4376  4376 D ActivityThread: ACT-HIDE_WINDOW handled : 0 / android.os.BinderProxy@417e76b8
+01-20 08:06:37.174  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:06:37.195  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x52dab000) size(812160) f(0x5)
+01-20 08:06:37.196  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x53b78000) size(812160) f(0x5)
+01-20 08:06:37.196  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x535ad000) size(812160) f(0x5)
+01-20 08:06:37.198  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:06:37.200  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:06:37.217  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x5306b000) size(812160) f(0x5)
+01-20 08:06:37.217  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x53db7000) size(812160) f(0x5)
+01-20 08:06:37.219  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:06:37.257  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x53174000) size(1536000) f(0x5)
+01-20 08:06:37.258  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x53e7e000) size(1536000) f(0x5)
+01-20 08:06:37.261  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:06:37.275  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x53324000) size(812160) f(0x5)
+01-20 08:06:37.276  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x53ff5000) size(812160) f(0x5)
+01-20 08:06:37.280  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:06:37.297  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x5342d000) size(1536000) f(0x5)
+01-20 08:06:37.363  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x540bc000) size(1536000) f(0x5)
+01-20 08:06:37.366  4376  4376 D OpenGLRenderer: Flushing caches (mode 2)
+01-20 08:06:43.353  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.354  4376  4376 D ActivityThread: ACT-SHOW_WINDOW handled : 0 / android.os.BinderProxy@417e6940
+01-20 08:06:43.356  4376  4376 D ActivityThread: ACT-SHOW_WINDOW handled : 0 / android.os.BinderProxy@417e76b8
+01-20 08:06:43.356  4376  4376 D ActivityThread: ACT-AM_ON_RESUME_CALLED ActivityRecord{417e6508 token=android.os.BinderProxy@417e5bc8 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-20 08:06:43.356  4376  4376 D ActivityThread: ACT-RESUME_ACTIVITY handled : 1 / android.os.BinderProxy@417e5bc8
+01-20 08:06:43.427  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.503  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.540  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.576  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.605  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.644  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.693  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.718  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.746  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.764  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.805  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:43.830  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:06:45.289  4376  4376 I SurfaceTextureClient: [0x51fd8a10] frames:3, duration:1.927000, fps:1.556097
+01-20 08:06:46.198  4376  4376 V Provider/Setting: from settings cache , name = sound_effects_enabled value = 0

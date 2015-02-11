@@ -1,0 +1,1356 @@
+01-20 10:20:09.604: D/ADB_SERVICES(139):  closing because is_eof=1 r=-1 s->fde.force_eof=0
+01-20 10:20:09.632: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@usrdata/
+01-20 10:20:09.633: D/ADB_SERVICES(139): Calling send_ready local=18767, remote=15234
+01-20 10:20:09.633: W/ADB_SERVICES(27774): adb: unable to open /proc/27774/oom_adj
+01-20 10:20:09.642: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:09.703: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:09.703: I/SurfaceTextureClient(461): [0x538e9340] frames:4, duration:1.004000, fps:3.980556
+01-20 10:20:09.719: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:09.720: I/SurfaceFlinger(110): [SurfaceFlinger] frames:4, duration:1.004000, fps:3.980587
+01-20 10:20:09.868: V/Provider/Setting(361): from settings cache , name = read_external_storage_enforced_default value = null
+01-20 10:20:09.868: D/Zygote(111): SelectLoop : runOnce
+01-20 10:20:09.868: D/Zygote(111): read arg list
+01-20 10:20:09.869: D/Zygote(111): prepare new stderr
+01-20 10:20:09.869: D/Zygote(111): parse args
+01-20 10:20:09.869: D/Zygote(111): before fork
+01-20 10:20:09.869: D/dalvikvm(111): threadid=2: exiting
+01-20 10:20:09.869: D/dalvikvm(111): threadid=2: bye!
+01-20 10:20:09.870: D/dalvikvm(111): threadid=3: exiting
+01-20 10:20:09.870: D/dalvikvm(111): threadid=3: bye!
+01-20 10:20:09.870: D/dalvikvm(111): threadid=4: exiting
+01-20 10:20:09.870: D/dalvikvm(111): threadid=4: bye!
+01-20 10:20:09.870: D/dalvikvm(111): pre gc
+01-20 10:20:09.874: D/dalvikvm(111): zygote fork : 27776
+01-20 10:20:09.874: D/dalvikvm(111): create interp thread : stack size=32KB
+01-20 10:20:09.874: D/dalvikvm(111): create new thread
+01-20 10:20:09.874: D/dalvikvm(111): update thread list
+01-20 10:20:09.875: D/dalvikvm(111): threadid=2: interp stack at 0x4f0be000
+01-20 10:20:09.876: D/dalvikvm(111): threadid=2: created from interp
+01-20 10:20:09.876: D/dalvikvm(111): start new thread
+01-20 10:20:09.876: D/dalvikvm(111): create interp thread : stack size=32KB
+01-20 10:20:09.876: D/dalvikvm(111): create new thread
+01-20 10:20:09.877: D/dalvikvm(111): update thread list
+01-20 10:20:09.877: D/dalvikvm(27776): zygote fork : 0
+01-20 10:20:09.877: D/dalvikvm(111): threadid=2: notify debugger
+01-20 10:20:09.877: D/dalvikvm(111): threadid=2 (ReferenceQueueDaemon): calling run()
+01-20 10:20:09.878: D/dalvikvm(27776): zygote get new systemTid : 27776
+01-20 10:20:09.878: D/dalvikvm(27776): threadid=2: interp stack at 0x4f1be000
+01-20 10:20:09.879: D/dalvikvm(27776): threadid=3: interp stack at 0x4f2c6000
+01-20 10:20:09.880: D/dalvikvm(27776): Elevating priority from 0 to -8
+01-20 10:20:09.881: D/dalvikvm(27776): threadid=4: interp stack at 0x4f3ce000
+01-20 10:20:09.881: D/dalvikvm(27776): zygote get thread init done
+01-20 10:20:09.882: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:09.882: D/dalvikvm(27776): create new thread
+01-20 10:20:09.883: D/dalvikvm(27776): update thread list
+01-20 10:20:09.883: D/dalvikvm(27776): threadid=5: interp stack at 0x52029000
+01-20 10:20:09.883: D/dalvikvm(27776): threadid=5: created from interp
+01-20 10:20:09.884: D/dalvikvm(27776): start new thread
+01-20 10:20:09.884: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:09.884: D/dalvikvm(27776): create new thread
+01-20 10:20:09.884: D/dalvikvm(27776): update thread list
+01-20 10:20:09.885: D/dalvikvm(27776): threadid=5: notify debugger
+01-20 10:20:09.885: D/dalvikvm(27776): threadid=5 (ReferenceQueueDaemon): calling run()
+01-20 10:20:09.885: D/dalvikvm(27776): threadid=6: interp stack at 0x52131000
+01-20 10:20:09.886: D/dalvikvm(27776): threadid=6: created from interp
+01-20 10:20:09.886: D/dalvikvm(27776): start new thread
+01-20 10:20:09.886: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:09.887: D/dalvikvm(27776): create new thread
+01-20 10:20:09.887: D/dalvikvm(27776): update thread list
+01-20 10:20:09.888: D/dalvikvm(27776): threadid=6: notify debugger
+01-20 10:20:09.888: D/dalvikvm(27776): threadid=6 (FinalizerDaemon): calling run()
+01-20 10:20:09.889: D/dalvikvm(27776): threadid=7: interp stack at 0x52239000
+01-20 10:20:09.889: D/dalvikvm(27776): threadid=7: created from interp
+01-20 10:20:09.890: D/dalvikvm(27776): start new thread
+01-20 10:20:09.890: D/Zygote(27776): fork pid : 0
+01-20 10:20:09.891: D/dalvikvm(111): threadid=3: interp stack at 0x4f1c6000
+01-20 10:20:09.891: D/dalvikvm(111): threadid=3: created from interp
+01-20 10:20:09.892: D/dalvikvm(111): start new thread
+01-20 10:20:09.892: D/dalvikvm(111): create interp thread : stack size=32KB
+01-20 10:20:09.892: D/dalvikvm(111): create new thread
+01-20 10:20:09.892: D/dalvikvm(111): update thread list
+01-20 10:20:09.893: D/dalvikvm(111): threadid=3: notify debugger
+01-20 10:20:09.893: D/dalvikvm(111): threadid=3 (FinalizerDaemon): calling run()
+01-20 10:20:09.896: D/dalvikvm(111): threadid=4: interp stack at 0x4f2ce000
+01-20 10:20:09.896: D/dalvikvm(111): threadid=4: created from interp
+01-20 10:20:09.897: D/dalvikvm(111): start new thread
+01-20 10:20:09.897: D/Zygote(111): fork pid : 27776
+01-20 10:20:09.898: D/dalvikvm(111): threadid=4: notify debugger
+01-20 10:20:09.898: D/dalvikvm(111): threadid=4 (FinalizerWatchdogDaemon): calling run()
+01-20 10:20:09.900: I/ActivityManager(361): Start proc com.google.android.music:main for service com.google.android.music/.wear.WearDataTransferConnectionService: pid=27776 uid=10029 gids={3003, 1015, 1028}
+01-20 10:20:09.906: D/dalvikvm(27776): threadid=7: notify debugger
+01-20 10:20:09.906: D/dalvikvm(27776): threadid=7 (FinalizerWatchdogDaemon): calling run()
+01-20 10:20:09.908: D/dalvikvm(27776): threadid=8: interp stack at 0x5263f000
+01-20 10:20:09.912: V/ActivityManager(361): Binding process pid 27776 to record ProcessRecord{42603470 27776:com.google.android.music:main/u0a29}
+01-20 10:20:09.912: V/ActivityManager(361): New death recipient com.android.server.am.ActivityManagerService$AppDeathRecipient@42a3fdf0 for thread android.os.BinderProxy@42a3ffd0
+01-20 10:20:09.913: V/ActivityManager(361): New app record ProcessRecord{42603470 27776:com.google.android.music:main/u0a29} thread=android.os.BinderProxy@42a3ffd0 pid=27776
+01-20 10:20:09.919: E/Trace(27776): error opening trace file: No such file or directory (2)
+01-20 10:20:09.924: D/dalvikvm(27776): threadid=9: interp stack at 0x52748000
+01-20 10:20:09.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:09.943: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:09.943: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91246133
+01-20 10:20:10.092: D/dalvikvm(27776): open_cached_dex_file : /data/app/com.google.android.music-1.apk /data/dalvik-cache/data@app@com.google.android.music-1.apk@classes.dex
+01-20 10:20:10.187: I/ActivityThread(27776): Pub com.google.android.music.ConfigContent: com.google.android.music.store.ConfigContentProvider
+01-20 10:20:10.284: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:10.284: D/dalvikvm(27776): create new thread
+01-20 10:20:10.285: D/dalvikvm(27776): update thread list
+01-20 10:20:10.285: D/dalvikvm(27776): threadid=10: interp stack at 0x534f8000
+01-20 10:20:10.285: D/dalvikvm(27776): threadid=10: created from interp
+01-20 10:20:10.286: D/dalvikvm(27776): start new thread
+01-20 10:20:10.286: D/dalvikvm(27776): threadid=10: notify debugger
+01-20 10:20:10.287: D/dalvikvm(27776): threadid=10 (ConfigUtilsWorker): calling run()
+01-20 10:20:10.295: I/ActivityThread(27776): Pub com.google.android.music.MusicContent: com.google.android.music.store.MusicContentProvider
+01-20 10:20:10.316: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:10.316: D/dalvikvm(27776): create new thread
+01-20 10:20:10.316: D/dalvikvm(27776): update thread list
+01-20 10:20:10.317: D/dalvikvm(27776): threadid=11: interp stack at 0x53600000
+01-20 10:20:10.317: D/dalvikvm(27776): threadid=11: created from interp
+01-20 10:20:10.317: D/dalvikvm(27776): start new thread
+01-20 10:20:10.317: D/dalvikvm(27776): threadid=11: notify debugger
+01-20 10:20:10.318: D/dalvikvm(27776): threadid=11 (UIAsyncWorker): calling run()
+01-20 10:20:10.324: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:10.324: D/dalvikvm(27776): create new thread
+01-20 10:20:10.324: D/dalvikvm(27776): update thread list
+01-20 10:20:10.325: D/dalvikvm(27776): threadid=12: interp stack at 0x53708000
+01-20 10:20:10.325: D/dalvikvm(27776): threadid=12: created from interp
+01-20 10:20:10.326: D/dalvikvm(27776): start new thread
+01-20 10:20:10.326: D/dalvikvm(27776): threadid=12: notify debugger
+01-20 10:20:10.327: D/dalvikvm(27776): threadid=12 (BGAsyncWorker): calling run()
+01-20 10:20:10.336: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:10.336: D/dalvikvm(27776): create new thread
+01-20 10:20:10.336: D/dalvikvm(27776): update thread list
+01-20 10:20:10.337: D/dalvikvm(27776): threadid=13: interp stack at 0x53810000
+01-20 10:20:10.337: D/dalvikvm(27776): threadid=13: created from interp
+01-20 10:20:10.337: D/dalvikvm(27776): start new thread
+01-20 10:20:10.338: D/dalvikvm(27776): threadid=13: notify debugger
+01-20 10:20:10.339: D/dalvikvm(27776): threadid=13 (IcingNotificationHandlerThread): calling run()
+01-20 10:20:10.345: I/MusicStore(27776): Database version: 104
+01-20 10:20:10.360: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:10.360: D/dalvikvm(27776): create new thread
+01-20 10:20:10.361: D/dalvikvm(27776): update thread list
+01-20 10:20:10.361: D/dalvikvm(27776): threadid=14: interp stack at 0x53918000
+01-20 10:20:10.362: D/dalvikvm(27776): threadid=14: created from interp
+01-20 10:20:10.362: D/dalvikvm(27776): start new thread
+01-20 10:20:10.362: D/dalvikvm(27776): threadid=14: notify debugger
+01-20 10:20:10.362: D/dalvikvm(27776): threadid=14 (SharedPreferencesImpl-load): calling run()
+01-20 10:20:10.367: D/dalvikvm(27776): threadid=14: exiting
+01-20 10:20:10.368: D/dalvikvm(27776): threadid=14: bye!
+01-20 10:20:10.377: I/ActivityThread(27776): Pub com.google.android.music.icing: com.google.android.music.icing.IcingContentProvider
+01-20 10:20:10.392: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:10.392: D/dalvikvm(27776): create new thread
+01-20 10:20:10.393: D/dalvikvm(27776): update thread list
+01-20 10:20:10.393: D/dalvikvm(27776): threadid=14: interp stack at 0x53918000
+01-20 10:20:10.393: D/dalvikvm(27776): threadid=14: created from interp
+01-20 10:20:10.394: D/dalvikvm(27776): start new thread
+01-20 10:20:10.394: D/dalvikvm(27776): threadid=14: notify debugger
+01-20 10:20:10.394: D/dalvikvm(27776): threadid=14 (SharedPreferencesImpl-load): calling run()
+01-20 10:20:10.411: I/ActivityThread(27776): Pub com.google.android.music.xdi: com.google.android.music.xdi.XdiContentProvider
+01-20 10:20:10.411: D/dalvikvm(27776): threadid=14: exiting
+01-20 10:20:10.411: D/dalvikvm(27776): threadid=14: bye!
+01-20 10:20:10.422: I/dalvikvm(27776): Could not find method android.app.ActivityManager.isLowRamDevice, referenced from method com.google.android.music.utils.SystemUtils.isLowMemory
+01-20 10:20:10.422: W/dalvikvm(27776): VFY: unable to resolve virtual method 309: Landroid/app/ActivityManager;.isLowRamDevice ()Z
+01-20 10:20:10.423: D/dalvikvm(27776): VFY: replacing opcode 0x6e at 0x000e
+01-20 10:20:10.446: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:10.446: D/dalvikvm(27776): create new thread
+01-20 10:20:10.447: D/dalvikvm(27776): update thread list
+01-20 10:20:10.447: D/dalvikvm(27776): threadid=14: interp stack at 0x53918000
+01-20 10:20:10.447: D/dalvikvm(27776): threadid=14: created from interp
+01-20 10:20:10.447: D/dalvikvm(27776): start new thread
+01-20 10:20:10.450: D/ActivityManager(361): getContentProviderImpl  return 6. result = android.app.IActivityManager$ContentProviderHolder@42a50e88
+01-20 10:20:10.452: D/dalvikvm(27776): threadid=14: notify debugger
+01-20 10:20:10.453: D/dalvikvm(27776): threadid=14 (Gservices): calling run()
+01-20 10:20:10.462: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x56b806a0
+01-20 10:20:10.504: D/dalvikvm(27776): GC_CONCURRENT freed 530K, 8% free 9146K/9847K, paused 11ms+2ms, total 29ms
+01-20 10:20:10.504: D/dalvikvm(27776): WAIT_FOR_CONCURRENT_GC blocked 13ms
+01-20 10:20:10.707: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:10.708: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.004000, fps:0.995205
+01-20 10:20:10.724: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:10.725: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995106
+01-20 10:20:10.762: D/dalvikvm(27776): open_cached_dex_file : /data/app/com.google.android.gms-1.apk /data/dalvik-cache/data@app@com.google.android.gms-1.apk@classes.dex
+01-20 10:20:10.807: D/dalvikvm(27776): Trying to load lib /data/data/com.google.android.gms/lib/libgmscore.so 0x418d1038
+01-20 10:20:10.865: D/dalvikvm(27776): Added shared lib /data/data/com.google.android.gms/lib/libgmscore.so 0x418d1038
+01-20 10:20:10.865: D/dalvikvm(27776): No JNI_OnLoad found in /data/data/com.google.android.gms/lib/libgmscore.so 0x418d1038, skipping init
+01-20 10:20:10.876: E/dalvikvm(27776): Could not find class 'android.app.AppOpsManager', referenced from method com.google.android.gms.common.util.e.a
+01-20 10:20:10.876: W/dalvikvm(27776): VFY: unable to resolve check-cast 35 (Landroid/app/AppOpsManager;) in Lcom/google/android/gms/common/util/e;
+01-20 10:20:10.877: D/dalvikvm(27776): VFY: replacing opcode 0x1f at 0x0010
+01-20 10:20:10.884: D/dalvikvm(27776): Trying to load lib /data/data/com.google.android.gms/lib/libconscrypt_gmscore_jni.so 0x418d1038
+01-20 10:20:10.885: D/dalvikvm(27776): Added shared lib /data/data/com.google.android.gms/lib/libconscrypt_gmscore_jni.so 0x418d1038
+01-20 10:20:10.886: V/JNIHelp(27776): Registering com/google/android/gms/org/conscrypt/NativeCrypto's 235 native methods...
+01-20 10:20:10.933: D/dalvikvm(27776): Trying to load lib /data/data/com.google.android.gms/lib/libgmscore.so 0x418d1038
+01-20 10:20:10.933: D/dalvikvm(27776): Shared lib '/data/data/com.google.android.gms/lib/libgmscore.so' already loaded in same CL 0x418d1038
+01-20 10:20:10.934: D/dalvikvm(27776): Trying to load lib /data/data/com.google.android.gms/lib/libconscrypt_gmscore_jni.so 0x418d1038
+01-20 10:20:10.934: D/dalvikvm(27776): Shared lib '/data/data/com.google.android.gms/lib/libconscrypt_gmscore_jni.so' already loaded in same CL 0x418d1038
+01-20 10:20:10.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:10.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:10.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91247133
+01-20 10:20:10.964: I/ProviderInstaller(27776): Installed default security provider GmsCore_OpenSSL
+01-20 10:20:10.964: D/AndroidMusic(27776): GMSCore installation verified
+01-20 10:20:10.972: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:10.972: D/dalvikvm(27776): create new thread
+01-20 10:20:10.973: D/dalvikvm(27776): update thread list
+01-20 10:20:10.973: D/dalvikvm(27776): threadid=15: interp stack at 0x54f7e000
+01-20 10:20:10.973: D/dalvikvm(27776): threadid=15: created from interp
+01-20 10:20:10.974: D/dalvikvm(27776): start new thread
+01-20 10:20:10.974: D/dalvikvm(27776): threadid=15: notify debugger
+01-20 10:20:10.974: D/dalvikvm(27776): threadid=15 (SharedPreferencesImpl-load): calling run()
+01-20 10:20:10.991: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x551daeb0
+01-20 10:20:10.992: I/ConfigStore(27776): Config Database version: 1
+01-20 10:20:10.995: D/dalvikvm(27776): threadid=15: exiting
+01-20 10:20:10.997: D/dalvikvm(27776): threadid=15: bye!
+01-20 10:20:11.010: D/IPCThreadState(361): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x54a76b28
+01-20 10:20:11.013: D/IPCThreadState(361): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x5706d9a0
+01-20 10:20:11.017: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x4f749cd8
+01-20 10:20:11.021: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x550d1cc8
+01-20 10:20:11.024: D/TelephonyManager(27776): getDefaultSim is sim1
+01-20 10:20:11.031: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x5506ca90
+01-20 10:20:11.044: I/dalvikvm(27776): Could not find method android.content.Context.getExternalFilesDirs, referenced from method com.google.android.music.download.cache.CacheLocationManager.deviceHasExternalStorage
+01-20 10:20:11.044: W/dalvikvm(27776): VFY: unable to resolve virtual method 633: Landroid/content/Context;.getExternalFilesDirs (Ljava/lang/String;)[Ljava/io/File;
+01-20 10:20:11.044: D/dalvikvm(27776): VFY: replacing opcode 0x6e at 0x008f
+01-20 10:20:11.050: I/dalvikvm(27776): Could not find method android.content.Context.getExternalFilesDirs, referenced from method com.google.android.music.download.cache.StorageProbeUtils.getLocationsWithKitKatApis
+01-20 10:20:11.050: W/dalvikvm(27776): VFY: unable to resolve virtual method 633: Landroid/content/Context;.getExternalFilesDirs (Ljava/lang/String;)[Ljava/io/File;
+01-20 10:20:11.050: D/dalvikvm(27776): VFY: replacing opcode 0x6e at 0x0015
+01-20 10:20:11.173: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x56b6e518
+01-20 10:20:11.190: D/dalvikvm(27776): GC_CONCURRENT freed 595K, 8% free 10005K/10807K, paused 11ms+13ms, total 57ms
+01-20 10:20:11.210: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:11.219: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:11.219: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:11.220: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-2ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:11.220: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:11.221: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-3ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:11.222: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:11.223: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:11.225: I/MediaRouter(27776): Found default route: MediaRouter.RouteInfo{ uniqueId=android/.support.v7.media.SystemMediaRouteProvider:DEFAULT_ROUTE, name=Telefon, description=null, enabled=true, connecting=false, playbackType=0, playbackStream=3, volumeHandling=1, volume=3, volumeMax=13, presentationDisplayId=-1, extras=null, providerPackageName=android }
+01-20 10:20:11.227: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:11.240: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:11.240: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:11.241: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-61
+01-20 10:20:11.241: D/StateMachine(361): handleMessage: X
+01-20 10:20:11.244: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x5684a8a0
+01-20 10:20:11.251: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x5537fe50
+01-20 10:20:11.252: D/ActivityThread(27776): BIND_APPLICATION handled : 0 / AppBindData{appInfo=ApplicationInfo{417e72e0 com.google.android.music}}
+01-20 10:20:11.259: D/ActivityThread(27776): SVC-Creating service: CreateServiceData{token=android.os.BinderProxy@417e9ac0 className=com.google.android.music.wear.WearDataTransferConnectionService packageName=com.google.android.music intent=null}
+01-20 10:20:11.273: D/ActivityThread(27776): SVC-CREATE_SERVICE handled : 0 / CreateServiceData{token=android.os.BinderProxy@417e9ac0 className=com.google.android.music.wear.WearDataTransferConnectionService packageName=com.google.android.music intent=null}
+01-20 10:20:11.273: D/ActivityThread(27776): SVC-Calling onStartCommand: com.google.android.music.wear.WearDataTransferConnectionService@419e05b0, flags=0, startId=63
+01-20 10:20:11.285: D/ActivityThread(27776): SVC-SERVICE_ARGS handled : 0 / ServiceArgsData{token=android.os.BinderProxy@417e9ac0 startId=63 args=null}
+01-20 10:20:11.286: D/ActivityThread(27776): SVC-Creating service: CreateServiceData{token=android.os.BinderProxy@419104a0 className=com.google.android.music.net.NetworkMonitor packageName=com.google.android.music intent=null}
+01-20 10:20:11.288: D/ConnectivityService(361): getActiveNetworkInfo:NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, simId: 0/10029
+01-20 10:20:11.289: I/NetworkMonitor(27776): type=WIFI subType= reason=null isConnected=true
+01-20 10:20:11.294: D/TelephonyManager(27776): getDefaultSim is sim1
+01-20 10:20:11.297: D/ActivityThread(27776): SVC-CREATE_SERVICE handled : 0 / CreateServiceData{token=android.os.BinderProxy@419104a0 className=com.google.android.music.net.NetworkMonitor packageName=com.google.android.music intent=null}
+01-20 10:20:11.300: D/ActivityThread(27776): SVC-BIND_SERVICE handled : 0 / BindServiceData{token=android.os.BinderProxy@419104a0 intent=Intent { cmp=com.google.android.music/.net.NetworkMonitor }}
+01-20 10:20:11.300: D/ActivityThread(27776): SVC-Creating service: CreateServiceData{token=android.os.BinderProxy@419fa268 className=com.google.android.music.preferences.MusicPreferenceService$MusicPreferenceServiceBinder packageName=com.google.android.music intent=null}
+01-20 10:20:11.302: D/ActivityThread(27776): SVC-CREATE_SERVICE handled : 0 / CreateServiceData{token=android.os.BinderProxy@419fa268 className=com.google.android.music.preferences.MusicPreferenceService$MusicPreferenceServiceBinder packageName=com.google.android.music intent=null}
+01-20 10:20:11.303: D/ActivityThread(27776): SVC-BIND_SERVICE handled : 0 / BindServiceData{token=android.os.BinderProxy@419fa268 intent=Intent { cmp=com.google.android.music/.preferences.MusicPreferenceService$MusicPreferenceServiceBinder }}
+01-20 10:20:11.304: D/ActivityThread(27776): SVC-Creating service: CreateServiceData{token=android.os.BinderProxy@41a2e370 className=com.google.android.music.download.cache.StorageMigrationService packageName=com.google.android.music intent=null}
+01-20 10:20:11.306: D/ActivityThread(27776): SVC-CREATE_SERVICE handled : 0 / CreateServiceData{token=android.os.BinderProxy@41a2e370 className=com.google.android.music.download.cache.StorageMigrationService packageName=com.google.android.music intent=null}
+01-20 10:20:11.306: D/ActivityThread(27776): SVC-Calling onStartCommand: com.google.android.music.download.cache.StorageMigrationService@418ded70, flags=0, startId=1
+01-20 10:20:11.310: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:11.310: D/dalvikvm(27776): create new thread
+01-20 10:20:11.310: D/dalvikvm(27776): update thread list
+01-20 10:20:11.310: D/dalvikvm(27776): threadid=15: interp stack at 0x53b20000
+01-20 10:20:11.310: D/dalvikvm(27776): threadid=15: created from interp
+01-20 10:20:11.310: D/dalvikvm(27776): start new thread
+01-20 10:20:11.310: D/dalvikvm(27776): threadid=15: notify debugger
+01-20 10:20:11.310: D/dalvikvm(27776): threadid=15 (SharedPreferencesImpl-load): calling run()
+01-20 10:20:11.311: D/ActivityThread(27776): SVC-SERVICE_ARGS handled : 0 / ServiceArgsData{token=android.os.BinderProxy@41a2e370 startId=1 args=Intent { act=com.google.android.music.ResumeStorageMigration cmp=com.google.android.music/.download.cache.StorageMigrationService }}
+01-20 10:20:11.321: I/NetworkMonitor(27776): type=WIFI subType= reason=null isConnected=true
+01-20 10:20:11.322: D/TelephonyManager(27776): getDefaultSim is sim1
+01-20 10:20:11.326: D/dalvikvm(27776): threadid=15: exiting
+01-20 10:20:11.327: D/dalvikvm(27776): threadid=15: bye!
+01-20 10:20:11.329: D/ConnectivityService(361): getActiveNetworkInfo:NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, simId: 0/1000
+01-20 10:20:11.330: D/SyncManager(361): setSyncAutomatically:  provider com.google.android.music.MusicContent, user 0 -> false
+01-20 10:20:11.333: D/SyncManager(361): setSyncAutomatically: already set to false, doing nothing
+01-20 10:20:11.334: D/SyncManager(361): setIsSyncable: Account {name=andrzej.kuciaba@gmail.com, type=com.google}, provider com.google.android.music.MusicContent, user 0 -> 0
+01-20 10:20:11.334: D/SyncManager(361): setIsSyncable: already set to 0, doing nothing
+01-20 10:20:11.336: D/ActivityThread(27776): SVC-Destroying service: com.google.android.music.download.cache.StorageMigrationService@418ded70
+01-20 10:20:11.337: D/ActivityThread(27776): SVC-STOP_SERVICE handled : 0 / android.os.BinderProxy@41a2e370
+01-20 10:20:11.339: D/ActivityManager(361): getContentProviderImpl  return 6. result = android.app.IActivityManager$ContentProviderHolder@42e1fc40
+01-20 10:20:11.340: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.343: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.344: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.344: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.344: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.345: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.345: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.345: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.346: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.347: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.347: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.347: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x55321078
+01-20 10:20:11.347: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.348: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.349: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.349: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.351: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.351: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.351: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.352: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.352: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:11.352: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.353: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.353: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.353: D/dalvikvm(27776): create new thread
+01-20 10:20:11.353: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.353: D/dalvikvm(27776): update thread list
+01-20 10:20:11.353: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.354: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.354: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.355: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.355: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.355: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.355: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.356: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.356: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.356: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.356: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.356: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.356: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.356: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.357: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.357: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.357: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.358: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.358: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.358: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.358: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.358: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.358: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.358: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.359: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.359: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.359: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.359: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.360: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.360: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.360: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.360: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.360: D/dalvikvm(27776): threadid=15: interp stack at 0x53b20000
+01-20 10:20:11.360: D/dalvikvm(27776): threadid=15: created from interp
+01-20 10:20:11.361: D/dalvikvm(27776): start new thread
+01-20 10:20:11.362: D/dalvikvm(27776): threadid=15: notify debugger
+01-20 10:20:11.362: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.362: D/dalvikvm(27776): threadid=15 (pool-4-thread-1): calling run()
+01-20 10:20:11.363: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.364: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.364: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.364: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.365: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.365: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.365: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.365: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.365: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.365: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.365: D/SyncManager(361): userId=0 auto=true mExt=com.mediatek.op.FwkExt@41cf6b80
+01-20 10:20:11.365: E/FWKEXT(361): Enter GetCurrentOP
+01-20 10:20:11.712: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:11.713: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990366
+01-20 10:20:11.729: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:11.730: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990305
+01-20 10:20:11.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:11.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:11.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91248133
+01-20 10:20:12.453: D/NetworkControllerGemini(461): refreshViews(0), DataConnected=false
+01-20 10:20:12.453: D/NetworkControllerGemini(461): refreshViews(0), set parameters to signal cluster view.
+01-20 10:20:12.454: D/NetworkControllerGemini(461): refreshViews(0), tempPhoneSignalIconId.0 = 2130837730  tempPhoneSignalIconId.1 = 0  tempMobileActivityIconId= 0  tempDataTypeIconId= 2130837709
+01-20 10:20:12.454: D/SignalClusterViewGemini(461): setMobileDataIndicators(0), visible=true, strengthIcon[0] ~ [1] 2130837730 ~ 0
+01-20 10:20:12.454: D/SignalClusterViewGemini(461): setDataConnected(0), dataConnected=false
+01-20 10:20:12.454: D/SignalClusterViewGemini(461): setDataNetType3G(0), dataNetType=Type_3G
+01-20 10:20:12.455: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:12.457: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:12.457: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:12.457: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:12.458: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:12.458: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:12.459: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:12.459: D/NetworkControllerGemini(461): refreshViews(1), DataConnected=false
+01-20 10:20:12.460: D/SignalClusterViewGemini(461): setDataConnected(1), dataConnected=false
+01-20 10:20:12.460: D/SignalClusterViewGemini(461): setDataNetType3G(1), dataNetType=Type_G
+01-20 10:20:12.461: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:12.463: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:12.464: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:12.464: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:12.466: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:12.467: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:12.468: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:12.478: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:12.492: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:12.718: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:12.718: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990053
+01-20 10:20:12.718: D/ADB_SERVICES(139): adb fdevent_process list (21) (14) (18) (22) 
+01-20 10:20:12.734: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:12.735: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990342
+01-20 10:20:12.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:12.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:12.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91249133
+01-20 10:20:13.220: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:13.236: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:13.454: D/NetworkControllerGemini(461): refreshViews(0), DataConnected=false
+01-20 10:20:13.455: D/NetworkControllerGemini(461): refreshViews(0), set parameters to signal cluster view.
+01-20 10:20:13.455: D/NetworkControllerGemini(461): refreshViews(0), tempPhoneSignalIconId.0 = 2130837730  tempPhoneSignalIconId.1 = 0  tempMobileActivityIconId= 0  tempDataTypeIconId= 2130837709
+01-20 10:20:13.455: D/SignalClusterViewGemini(461): setMobileDataIndicators(0), visible=true, strengthIcon[0] ~ [1] 2130837730 ~ 0
+01-20 10:20:13.456: D/SignalClusterViewGemini(461): setDataConnected(0), dataConnected=false
+01-20 10:20:13.456: D/SignalClusterViewGemini(461): setDataNetType3G(0), dataNetType=Type_3G
+01-20 10:20:13.458: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:13.460: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:13.461: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:13.461: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:13.463: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:13.464: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:13.464: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:13.465: D/NetworkControllerGemini(461): refreshViews(1), DataConnected=false
+01-20 10:20:13.465: D/SignalClusterViewGemini(461): setDataConnected(1), dataConnected=false
+01-20 10:20:13.466: D/SignalClusterViewGemini(461): setDataNetType3G(1), dataNetType=Type_G
+01-20 10:20:13.467: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:13.469: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:13.470: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:13.470: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:13.472: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:13.473: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:13.473: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:13.479: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:13.497: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:13.722: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:13.723: I/SurfaceTextureClient(461): [0x538e9340] frames:3, duration:1.004000, fps:2.985431
+01-20 10:20:13.739: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:13.739: I/SurfaceFlinger(110): [SurfaceFlinger] frames:3, duration:1.004000, fps:2.985294
+01-20 10:20:13.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:13.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:13.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91250133
+01-20 10:20:14.245: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:14.245: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:14.246: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-4ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:14.246: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:14.247: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-5ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:14.248: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:14.248: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:14.249: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:14.249: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:14.250: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-61
+01-20 10:20:14.251: D/StateMachine(361): handleMessage: X
+01-20 10:20:14.377: V/ActivityManager(361): Broadcast sticky: Intent { act=android.intent.action.SIG_STR flg=0x10 (has extras) } ordered=false userid=0
+01-20 10:20:14.380: D/Bluetooth HS/HF(529): [BT][HFG] [API] mStateReceiver.onReceive(android.intent.action.SIG_STR)
+01-20 10:20:14.381: D/Bluetooth HS/HF(529): [BT][HFG] [API] mHandler.handleMessage(10)
+01-20 10:20:14.381: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, sim1 before.
+01-20 10:20:14.381: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, signalStrength=3
+01-20 10:20:14.381: D/NetworkControllerGemini(461): updateDataNetType(0), DataNetType=10.
+01-20 10:20:14.381: D/NetworkControllerGemini(461): updateDataNetType(0), simColorId=2
+01-20 10:20:14.381: D/NetworkControllerGemini(461): updateDataNetType(0), DataNetType3G=Type_3G tempDataTypeIconId= 2130837709.
+01-20 10:20:14.382: D/NetworkControllerGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:14.382: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), regState=1
+01-20 10:20:14.382: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), hasService=true
+01-20 10:20:14.382: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), isRoaming=false, mInetCondition=1
+01-20 10:20:14.382: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), simColorId=2
+01-20 10:20:14.382: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), tempDataNetType = Type_3G , simColorId=2  tempPhoneSignalIconId[0] = 2130837730  tempPhoneSignalIconId[1] = 0
+01-20 10:20:14.383: D/NetworkControllerGemini(461):  updateTelephonySignalStrength(0) tempSIMCUSignVisible= true
+01-20 10:20:14.383: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0) mSIMCUSignVisible= true
+01-20 10:20:14.383: D/NetworkControllerGemini(461): refreshViews(0), DataConnected=false
+01-20 10:20:14.383: D/SignalClusterViewGemini(461): setDataConnected(0), dataConnected=false
+01-20 10:20:14.383: D/SignalClusterViewGemini(461): setDataNetType3G(0), dataNetType=Type_3G
+01-20 10:20:14.384: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:14.384: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l /
+01-20 10:20:14.396: D/ADB_SERVICES(139): Calling send_ready local=18768, remote=15235
+01-20 10:20:14.399: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:14.400: W/ADB_SERVICES(27798): adb: unable to open /proc/27798/oom_adj
+01-20 10:20:14.401: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:14.401: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:14.406: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:14.407: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:14.407: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:14.408: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, sim1 after.
+01-20 10:20:14.416: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:14.427: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:14.439: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:14.456: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@android/
+01-20 10:20:14.456: D/ADB_SERVICES(139): Calling send_ready local=18769, remote=15236
+01-20 10:20:14.457: W/ADB_SERVICES(27800): adb: unable to open /proc/27800/oom_adj
+01-20 10:20:14.480: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:14.490: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@cache/
+01-20 10:20:14.491: D/ADB_SERVICES(139): Calling send_ready local=18770, remote=15237
+01-20 10:20:14.492: W/ADB_SERVICES(27803): adb: unable to open /proc/27803/oom_adj
+01-20 10:20:14.500: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:14.527: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@custpack/
+01-20 10:20:14.529: D/ADB_SERVICES(139): Calling send_ready local=18771, remote=15238
+01-20 10:20:14.530: W/ADB_SERVICES(27805): adb: unable to open /proc/27805/oom_adj
+01-20 10:20:14.538: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:14.563: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@ebr1/
+01-20 10:20:14.564: D/ADB_SERVICES(139): Calling send_ready local=18772, remote=15239
+01-20 10:20:14.564: D/ADB_SERVICES(139): adb local_socket_ready list (18) (21) (22) 
+01-20 10:20:14.564: D/ADB_SERVICES(139): adb socket read list (21) (18) (22) 
+01-20 10:20:14.565: D/ADB_SERVICES(139): read_data=106711
+01-20 10:20:14.565: D/ADB_SERVICES(139): max_read_time=0.000131 max_send_time=0.000631 
+01-20 10:20:14.565: W/ADB_SERVICES(27807): adb: unable to open /proc/27807/oom_adj
+01-20 10:20:14.577: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:14.599: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@mobile_info/
+01-20 10:20:14.600: D/ADB_SERVICES(139): Calling send_ready local=18773, remote=15240
+01-20 10:20:14.601: W/ADB_SERVICES(27809): adb: unable to open /proc/27809/oom_adj
+01-20 10:20:14.610: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:14.639: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@sec_ro/
+01-20 10:20:14.639: D/ADB_SERVICES(139): Calling send_ready local=18774, remote=15241
+01-20 10:20:14.640: W/ADB_SERVICES(27811): adb: unable to open /proc/27811/oom_adj
+01-20 10:20:14.649: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:14.678: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@usrdata/
+01-20 10:20:14.679: D/ADB_SERVICES(139): Calling send_ready local=18775, remote=15242
+01-20 10:20:14.680: W/ADB_SERVICES(27813): adb: unable to open /proc/27813/oom_adj
+01-20 10:20:14.689: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:14.734: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:14.735: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.009000, fps:1.980339
+01-20 10:20:14.744: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:14.744: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990268
+01-20 10:20:14.946: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:14.946: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:14.946: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91251133
+01-20 10:20:15.229: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:15.246: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:15.560: I/AK__officetime(27729): AK_officetime 3.5.1
+01-20 10:20:15.560: I/AK__officetime(27729): AK_officetime 3.1
+01-20 10:20:15.562: I/AK__officetime(27729): AK_officetime 3.2
+01-20 10:20:15.562: I/AK__officetime(27729): AK_officetime 3.3
+01-20 10:20:15.562: I/AK__officetime(27729): AK_officetime 3.4
+01-20 10:20:15.564: I/AK__officetime(27729): AK_officetime 3.5
+01-20 10:20:15.732: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:15.749: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:15.749: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990271
+01-20 10:20:15.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:15.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:15.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91252133
+01-20 10:20:16.187: V/ActivityManager(361): Broadcast: Intent { act=com.google.android.music.START_DOWNLOAD_SCHEDULING flg=0x10 } ordered=false userid=0
+01-20 10:20:16.241: D/ActivityThread(27776): BDC-Calling onReceive: intent=Intent { act=com.google.android.music.START_DOWNLOAD_SCHEDULING flg=0x10 cmp=com.google.android.music/.leanback.AutoCacheSchedulingService$EnablingReceiver }, ordered=true, receiver=com.google.android.music.leanback.AutoCacheSchedulingService$EnablingReceiver@41891060
+01-20 10:20:16.289: D/ActivityThread(27776): BDC-RECEIVER handled : 0 / ReceiverData{intent=Intent { act=com.google.android.music.START_DOWNLOAD_SCHEDULING flg=0x10 cmp=com.google.android.music/.leanback.AutoCacheSchedulingService$EnablingReceiver } packageName=com.google.android.music resultCode=-1 resultData=null resultExtras=null}
+01-20 10:20:16.294: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:16.294: D/dalvikvm(27776): create new thread
+01-20 10:20:16.295: D/dalvikvm(27776): update thread list
+01-20 10:20:16.295: D/dalvikvm(27776): threadid=16: interp stack at 0x53c28000
+01-20 10:20:16.296: D/dalvikvm(27776): threadid=16: created from interp
+01-20 10:20:16.296: D/dalvikvm(27776): start new thread
+01-20 10:20:16.297: D/dalvikvm(27776): threadid=16: notify debugger
+01-20 10:20:16.297: D/dalvikvm(27776): threadid=16 (MusicLeanback): calling run()
+01-20 10:20:16.305: D/ActivityThread(27776): SVC-Creating service: CreateServiceData{token=android.os.BinderProxy@41978360 className=com.google.android.music.leanback.AutoCacheSchedulingService packageName=com.google.android.music intent=null}
+01-20 10:20:16.316: D/ActivityThread(27776): SVC-CREATE_SERVICE handled : 0 / CreateServiceData{token=android.os.BinderProxy@41978360 className=com.google.android.music.leanback.AutoCacheSchedulingService packageName=com.google.android.music intent=null}
+01-20 10:20:16.316: D/ActivityThread(27776): SVC-Calling onStartCommand: com.google.android.music.leanback.AutoCacheSchedulingService@419d6a20, flags=0, startId=1
+01-20 10:20:16.317: D/ActivityThread(27776): SVC-SERVICE_ARGS handled : 0 / ServiceArgsData{token=android.os.BinderProxy@41978360 startId=1 args=Intent { act=com.google.android.music.leanback.APP_IN_USE cmp=com.google.android.music/.leanback.AutoCacheSchedulingService (has extras) }}
+01-20 10:20:16.318: D/ActivityThread(27776): BDC-Calling onReceive: intent=Intent { act=com.google.android.music.START_DOWNLOAD_SCHEDULING flg=0x10 cmp=com.google.android.music/.wear.WearBroadcastReceiver }, ordered=true, receiver=com.google.android.music.wear.WearBroadcastReceiver@4187cd30
+01-20 10:20:16.319: D/ActivityManager(361): getContentProviderImpl  return 6. result = android.app.IActivityManager$ContentProviderHolder@42788510
+01-20 10:20:16.321: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:16.326: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x5537ff80
+01-20 10:20:16.344: D/dalvikvm(27776): create new thread
+01-20 10:20:16.346: D/dalvikvm(27776): update thread list
+01-20 10:20:16.347: D/dalvikvm(27776): threadid=17: interp stack at 0x53d30000
+01-20 10:20:16.347: D/dalvikvm(27776): threadid=17: created from interp
+01-20 10:20:16.347: D/dalvikvm(27776): start new thread
+01-20 10:20:16.348: D/dalvikvm(27776): threadid=17: notify debugger
+01-20 10:20:16.349: D/dalvikvm(27776): threadid=17 (SharedPreferencesImpl-load): calling run()
+01-20 10:20:16.351: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:16.351: D/dalvikvm(27776): create new thread
+01-20 10:20:16.352: D/dalvikvm(27776): update thread list
+01-20 10:20:16.352: D/dalvikvm(27776): threadid=18: interp stack at 0x53e38000
+01-20 10:20:16.352: D/dalvikvm(27776): threadid=18: created from interp
+01-20 10:20:16.352: D/dalvikvm(27776): start new thread
+01-20 10:20:16.353: D/dalvikvm(27776): threadid=18: notify debugger
+01-20 10:20:16.354: D/dalvikvm(27776): threadid=18 (SharedPreferencesImpl-load): calling run()
+01-20 10:20:16.354: D/dalvikvm(27776): threadid=18: exiting
+01-20 10:20:16.355: D/dalvikvm(27776): threadid=18: bye!
+01-20 10:20:16.367: D/dalvikvm(27776): threadid=17: exiting
+01-20 10:20:16.368: D/dalvikvm(27776): threadid=17: bye!
+01-20 10:20:16.379: D/ActivityThread(27776): BDC-RECEIVER handled : 0 / ReceiverData{intent=Intent { act=com.google.android.music.START_DOWNLOAD_SCHEDULING flg=0x10 cmp=com.google.android.music/.wear.WearBroadcastReceiver } packageName=com.google.android.music resultCode=0 resultData=null resultExtras=null}
+01-20 10:20:16.380: D/ActivityThread(27776): SVC-Creating service: CreateServiceData{token=android.os.BinderProxy@419d7c38 className=com.google.android.music.download.TrackDownloadQueueService packageName=com.google.android.music intent=null}
+01-20 10:20:16.401: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x516d0ae0
+01-20 10:20:16.460: I/GHttpClientFactory(27776): Using the GMSCore's GoogleHttpClient
+01-20 10:20:16.477: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:16.477: D/dalvikvm(27776): create new thread
+01-20 10:20:16.477: D/dalvikvm(27776): update thread list
+01-20 10:20:16.478: D/dalvikvm(27776): threadid=17: interp stack at 0x53df0000
+01-20 10:20:16.478: D/dalvikvm(27776): threadid=17: created from interp
+01-20 10:20:16.479: D/dalvikvm(27776): start new thread
+01-20 10:20:16.480: D/ActivityThread(27776): SVC-CREATE_SERVICE handled : 0 / CreateServiceData{token=android.os.BinderProxy@419d7c38 className=com.google.android.music.download.TrackDownloadQueueService packageName=com.google.android.music intent=null}
+01-20 10:20:16.482: D/ActivityThread(27776): SVC-BIND_SERVICE handled : 0 / BindServiceData{token=android.os.BinderProxy@419d7c38 intent=Intent { cmp=com.google.android.music/.download.TrackDownloadQueueService }}
+01-20 10:20:16.483: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:16.483: D/dalvikvm(27776): create new thread
+01-20 10:20:16.484: D/dalvikvm(27776): update thread list
+01-20 10:20:16.484: D/dalvikvm(27776): threadid=17: notify debugger
+01-20 10:20:16.484: D/dalvikvm(27776): threadid=17 (DownloadThread): calling run()
+01-20 10:20:16.484: D/dalvikvm(27776): threadid=18: interp stack at 0x53ef8000
+01-20 10:20:16.484: D/dalvikvm(27776): threadid=18: created from interp
+01-20 10:20:16.484: D/dalvikvm(27776): start new thread
+01-20 10:20:16.485: D/dalvikvm(27776): threadid=18: notify debugger
+01-20 10:20:16.485: D/dalvikvm(27776): threadid=18 (CacheService): calling run()
+01-20 10:20:16.494: D/ActivityThread(27776): SVC-Creating service: CreateServiceData{token=android.os.BinderProxy@41884ef8 className=com.google.android.music.download.cache.TrackCacheService packageName=com.google.android.music intent=null}
+01-20 10:20:16.496: D/IPCThreadState(361): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x559028a0
+01-20 10:20:16.496: I/MusicLeanback(27776): Conditions not met for autocaching.
+01-20 10:20:16.497: I/MusicLeanback(27776): Stop autocaching.
+01-20 10:20:16.514: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x55361ea8
+01-20 10:20:16.519: D/IPCThreadState(3804): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x5685b3d0
+01-20 10:20:16.521: D/ActivityThread(27776): SVC-CREATE_SERVICE handled : 0 / CreateServiceData{token=android.os.BinderProxy@41884ef8 className=com.google.android.music.download.cache.TrackCacheService packageName=com.google.android.music intent=null}
+01-20 10:20:16.522: D/ActivityThread(27776): SVC-BIND_SERVICE handled : 0 / BindServiceData{token=android.os.BinderProxy@41884ef8 intent=Intent { cmp=com.google.android.music/.download.cache.TrackCacheService }}
+01-20 10:20:16.525: D/ActivityThread(27776): SVC-Creating service: CreateServiceData{token=android.os.BinderProxy@41870bf0 className=com.google.android.music.wear.WearMetadataSyncService packageName=com.google.android.music intent=null}
+01-20 10:20:16.525: D/dalvikvm(27776): create interp thread : stack size=32KB
+01-20 10:20:16.526: D/dalvikvm(27776): create new thread
+01-20 10:20:16.526: D/dalvikvm(27776): update thread list
+01-20 10:20:16.526: D/dalvikvm(27776): threadid=19: interp stack at 0x54000000
+01-20 10:20:16.526: D/dalvikvm(27776): threadid=19: created from interp
+01-20 10:20:16.526: D/dalvikvm(27776): start new thread
+01-20 10:20:16.526: D/dalvikvm(27776): threadid=19: notify debugger
+01-20 10:20:16.526: D/dalvikvm(27776): threadid=19 (IntentService[WearMetadataSyncService]): calling run()
+01-20 10:20:16.535: D/ActivityThread(27776): SVC-CREATE_SERVICE handled : 0 / CreateServiceData{token=android.os.BinderProxy@41870bf0 className=com.google.android.music.wear.WearMetadataSyncService packageName=com.google.android.music intent=null}
+01-20 10:20:16.535: D/ActivityThread(27776): SVC-Calling onStartCommand: com.google.android.music.wear.WearMetadataSyncService@419f8210, flags=0, startId=1
+01-20 10:20:16.536: D/ActivityThread(27776): SVC-SERVICE_ARGS handled : 0 / ServiceArgsData{token=android.os.BinderProxy@41870bf0 startId=1 args=Intent { cmp=com.google.android.music/.wear.WearMetadataSyncService }}
+01-20 10:20:16.538: D/ActivityThread(27776): SVC-Destroying service: com.google.android.music.leanback.AutoCacheSchedulingService@419d6a20
+01-20 10:20:16.538: D/dalvikvm(27776): threadid=16: exiting
+01-20 10:20:16.539: D/dalvikvm(27776): threadid=16: bye!
+01-20 10:20:16.541: D/ActivityThread(27776): SVC-STOP_SERVICE handled : 0 / android.os.BinderProxy@41978360
+01-20 10:20:16.545: D/ActivityThread(27776): SVC-UNBIND_SERVICE handled : 0 / BindServiceData{token=android.os.BinderProxy@419d7c38 intent=Intent { cmp=com.google.android.music/.download.TrackDownloadQueueService }}
+01-20 10:20:16.545: D/ActivityThread(27776): SVC-Destroying service: com.google.android.music.download.TrackDownloadQueueService@41936ad8
+01-20 10:20:16.545: D/dalvikvm(27776): threadid=17: exiting
+01-20 10:20:16.546: D/dalvikvm(27776): threadid=17: bye!
+01-20 10:20:16.548: D/ActivityThread(27776): SVC-STOP_SERVICE handled : 0 / android.os.BinderProxy@419d7c38
+01-20 10:20:16.550: D/ActivityThread(27776): SVC-UNBIND_SERVICE handled : 0 / BindServiceData{token=android.os.BinderProxy@41884ef8 intent=Intent { cmp=com.google.android.music/.download.cache.TrackCacheService }}
+01-20 10:20:16.550: D/ActivityThread(27776): SVC-Destroying service: com.google.android.music.download.cache.TrackCacheService@41a27178
+01-20 10:20:16.552: D/dalvikvm(27776): threadid=18: exiting
+01-20 10:20:16.553: D/dalvikvm(27776): threadid=18: bye!
+01-20 10:20:16.554: D/ActivityThread(27776): SVC-STOP_SERVICE handled : 0 / android.os.BinderProxy@41884ef8
+01-20 10:20:16.584: E/ActivityThread(27776): Service com.google.android.music.download.TrackDownloadQueueService has leaked ServiceConnection com.google.android.gms.http.GoogleURLConnectionFactory$1@418f9248 that was originally bound here
+01-20 10:20:16.584: E/ActivityThread(27776): android.app.ServiceConnectionLeaked: Service com.google.android.music.download.TrackDownloadQueueService has leaked ServiceConnection com.google.android.gms.http.GoogleURLConnectionFactory$1@418f9248 that was originally bound here
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:995)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:889)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.app.ContextImpl.bindService(ContextImpl.java:1271)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.app.ContextImpl.bindService(ContextImpl.java:1263)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:394)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.google.android.gms.http.GoogleURLConnectionFactory.<init>(Unknown Source)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.google.android.gms.http.GoogleHttpClient.<init>(Unknown Source)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.google.android.gms.http.GoogleHttpClient.<init>(Unknown Source)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.google.android.gms.http.GoogleHttpClient.<init>(Unknown Source)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.google.android.music.GoogleHttpClientFactory.createGoogleHttpClient(GoogleHttpClientFactory.java:81)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.google.android.music.cloudclient.MusicRequest.createHttpClient(MusicRequest.java:110)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.google.android.music.cloudclient.MusicRequest.getSharedHttpClient(MusicRequest.java:100)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.google.android.music.download.BaseDownloadQueueManager.<init>(BaseDownloadQueueManager.java:110)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.google.android.music.download.TrackDownloadQueueManager.<init>(TrackDownloadQueueManager.java:10)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.google.android.music.download.TrackDownloadQueueService.onCreate(TrackDownloadQueueService.java:25)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2554)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.app.ActivityThread.access$1600(ActivityThread.java:181)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1414)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.os.Looper.loop(Looper.java:153)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at android.app.ActivityThread.main(ActivityThread.java:5042)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at java.lang.reflect.Method.invokeNative(Native Method)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at java.lang.reflect.Method.invoke(Method.java:511)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:821)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:584)
+01-20 10:20:16.584: E/ActivityThread(27776): 	at dalvik.system.NativeStart.main(Native Method)
+01-20 10:20:16.585: D/IPCThreadState(27776): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x51fc2e68
+01-20 10:20:16.737: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:16.737: I/SurfaceTextureClient(461): [0x538e9340] frames:3, duration:2.004000, fps:1.496565
+01-20 10:20:16.754: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:16.754: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995179
+01-20 10:20:16.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:16.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:16.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91253133
+01-20 10:20:17.239: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:17.253: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:17.253: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:17.254: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-3ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:17.254: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:17.254: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-3ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:17.255: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:17.255: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:17.256: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:17.270: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:17.270: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:17.271: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-64
+01-20 10:20:17.273: D/StateMachine(361): handleMessage: X
+01-20 10:20:17.742: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:17.742: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.005000, fps:1.989510
+01-20 10:20:17.742: D/ADB_SERVICES(139): adb fdevent_process list (21) (14) (18) (22) 
+01-20 10:20:17.758: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:17.759: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990279
+01-20 10:20:17.907: D/MtkAgps(121): agpsd poll timeout(600000)
+01-20 10:20:17.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:17.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:17.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91254133
+01-20 10:20:18.707: V/Provider/Setting(361): from settings cache , name = sys_free_storage_log_interval value = null
+01-20 10:20:18.707: V/Provider/Setting(361): from settings cache , name = disk_free_change_reporting_threshold value = null
+01-20 10:20:18.746: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:18.747: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.004000, fps:0.995360
+01-20 10:20:18.763: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:18.764: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995137
+01-20 10:20:18.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:18.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:18.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91255133
+01-20 10:20:19.249: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:19.266: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:19.386: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l /
+01-20 10:20:19.387: D/ADB_SERVICES(139): Calling send_ready local=18776, remote=15243
+01-20 10:20:19.388: W/ADB_SERVICES(27821): adb: unable to open /proc/27821/oom_adj
+01-20 10:20:19.417: D/ConnectivityService(361): getActiveNetworkInfo:NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, simId: 0/10140
+01-20 10:20:19.418: D/ConnectivityService(361): getActiveNetworkInfo:NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, simId: 0/10140
+01-20 10:20:19.434: V/ActivityManager(361): Broadcast: Intent { act=UPDATE_NOTIFICATIONS_LIST flg=0x10 } ordered=false userid=0
+01-20 10:20:19.460: D/IPCThreadState(361): [DN #5] BR_DEAD_BINDER cookie 0x5d676f90
+01-20 10:20:19.460: V/ActivityManager(361): Death received in com.android.server.am.ActivityManagerService$AppDeathRecipient@42f5a560 for thread android.os.BinderProxy@42f903c0
+01-20 10:20:19.460: I/ActivityManager(361): Process com.mapfactor.navigator (pid 26971) has died.
+01-20 10:20:19.460: V/ActivityManager(361): Dying app: ProcessRecord{426f8ec8 26971:com.mapfactor.navigator/u0a140}, pid: 26971, thread: android.os.BinderProxy@42f903c0
+01-20 10:20:19.464: V/ActivityManager(361): Removing app ProcessRecord{426f8ec8 0:com.mapfactor.navigator/u0a140} from list [ActivityRecord{41e7cfe8 com.android.phone/.InCallScreen}, ActivityRecord{41d26660 com.jrdcom.launcher/.Launcher}, ActivityRecord{41cd79e8 com.android.settings/.Settings}] with 3 entries
+01-20 10:20:19.468: V/ActivityManager(361): Record #2 ActivityRecord{41cd79e8 com.android.settings/.Settings}: app=ProcessRecord{42a55ef0 25544:com.android.settings/1000}
+01-20 10:20:19.468: V/ActivityManager(361): Record #1 ActivityRecord{41d26660 com.jrdcom.launcher/.Launcher}: app=ProcessRecord{427aa040 5520:com.jrdcom.launcher/u0a21}
+01-20 10:20:19.468: V/ActivityManager(361): Record #0 ActivityRecord{41e7cfe8 com.android.phone/.InCallScreen}: app=ProcessRecord{41dbd048 529:com.android.phone/1001}
+01-20 10:20:19.468: V/ActivityManager(361): Removing app ProcessRecord{426f8ec8 0:com.mapfactor.navigator/u0a140} from list [] with 0 entries
+01-20 10:20:19.469: V/ActivityManager(361): Removing app ProcessRecord{426f8ec8 0:com.mapfactor.navigator/u0a140} from list [] with 0 entries
+01-20 10:20:19.469: V/ActivityManager(361): Removing app ProcessRecord{426f8ec8 0:com.mapfactor.navigator/u0a140} from list [] with 0 entries
+01-20 10:20:19.469: V/ActivityManager(361): Removing app ProcessRecord{426f8ec8 0:com.mapfactor.navigator/u0a140} from list [] with 0 entries
+01-20 10:20:19.473: D/ActivityThread(3821): SVC-UNBIND_SERVICE handled : 0 / BindServiceData{token=android.os.BinderProxy@417e58a8 intent=Intent { act=com.google.android.gms.analytics.service.START cmp=com.google.android.gms/.analytics.service.AnalyticsService (has extras) }}
+01-20 10:20:19.474: D/ActivityThread(3821): SVC-Destroying service: com.google.android.gms.analytics.service.AnalyticsService@41a2c6a8
+01-20 10:20:19.480: D/dalvikvm(3821): threadid=18: exiting
+01-20 10:20:19.481: D/dalvikvm(3821): threadid=18: bye!
+01-20 10:20:19.482: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:19.483: D/ActivityThread(3821): SVC-STOP_SERVICE handled : 0 / android.os.BinderProxy@417e58a8
+01-20 10:20:19.484: D/IPCThreadState(361): [DN #5] BR_CLEAR_DEATH_NOTIFICATION_DONE cookie 0x5d676f90
+01-20 10:20:19.497: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@android/
+01-20 10:20:19.498: D/ADB_SERVICES(139): Calling send_ready local=18777, remote=15244
+01-20 10:20:19.499: W/ADB_SERVICES(27823): adb: unable to open /proc/27823/oom_adj
+01-20 10:20:19.508: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:19.531: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@cache/
+01-20 10:20:19.532: D/ADB_SERVICES(139): Calling send_ready local=18778, remote=15245
+01-20 10:20:19.532: W/ADB_SERVICES(27825): adb: unable to open /proc/27825/oom_adj
+01-20 10:20:19.541: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:19.567: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@custpack/
+01-20 10:20:19.567: D/ADB_SERVICES(139): Calling send_ready local=18779, remote=15246
+01-20 10:20:19.567: D/ADB_SERVICES(139): adb local_socket_ready list (18) (21) (22) 
+01-20 10:20:19.568: D/ADB_SERVICES(139): adb socket read list (21) (18) (22) 
+01-20 10:20:19.568: D/ADB_SERVICES(139): read_data=57706
+01-20 10:20:19.568: D/ADB_SERVICES(139): max_read_time=0.000056 max_send_time=0.000053 
+01-20 10:20:19.569: W/ADB_SERVICES(27827): adb: unable to open /proc/27827/oom_adj
+01-20 10:20:19.577: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:19.603: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@ebr1/
+01-20 10:20:19.604: D/ADB_SERVICES(139): Calling send_ready local=18780, remote=15247
+01-20 10:20:19.605: W/ADB_SERVICES(27829): adb: unable to open /proc/27829/oom_adj
+01-20 10:20:19.613: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:19.637: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@mobile_info/
+01-20 10:20:19.637: D/ADB_SERVICES(139): Calling send_ready local=18781, remote=15248
+01-20 10:20:19.638: W/ADB_SERVICES(27831): adb: unable to open /proc/27831/oom_adj
+01-20 10:20:19.646: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:19.671: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@sec_ro/
+01-20 10:20:19.672: D/ADB_SERVICES(139): Calling send_ready local=18782, remote=15249
+01-20 10:20:19.673: W/ADB_SERVICES(27833): adb: unable to open /proc/27833/oom_adj
+01-20 10:20:19.681: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:19.707: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@usrdata/
+01-20 10:20:19.707: D/ADB_SERVICES(139): Calling send_ready local=18783, remote=15250
+01-20 10:20:19.708: W/ADB_SERVICES(27835): adb: unable to open /proc/27835/oom_adj
+01-20 10:20:19.731: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:19.759: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:19.759: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.006000, fps:1.987310
+01-20 10:20:19.768: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:19.770: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.005000, fps:1.988685
+01-20 10:20:19.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:19.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:19.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91256133
+01-20 10:20:20.279: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:20.283: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:20.284: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-12ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:20.284: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:20.285: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-13ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:20.285: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:20.285: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:20.286: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:20.286: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:20.287: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-64
+01-20 10:20:20.288: D/StateMachine(361): handleMessage: X
+01-20 10:20:20.756: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:20.757: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.003000, fps:0.996744
+01-20 10:20:20.773: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:20.774: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995927
+01-20 10:20:20.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:20.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:20.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91257133
+01-20 10:20:21.259: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:21.276: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:21.761: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:21.761: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990093
+01-20 10:20:21.778: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:21.779: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990296
+01-20 10:20:21.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:21.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:21.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91258133
+01-20 10:20:22.766: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:22.766: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.004000, fps:0.995132
+01-20 10:20:22.767: D/ADB_SERVICES(139): adb fdevent_process list (21) (14) (18) (22) 
+01-20 10:20:22.783: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:22.783: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995138
+01-20 10:20:22.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:22.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:22.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91259133
+01-20 10:20:23.268: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:23.285: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:23.289: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:23.290: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:23.292: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-3ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:23.292: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:23.293: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-5ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:23.294: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:23.295: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:23.296: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:23.296: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:23.297: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-64
+01-20 10:20:23.298: D/StateMachine(361): handleMessage: X
+01-20 10:20:23.771: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:23.771: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990152
+01-20 10:20:23.788: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:23.788: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990270
+01-20 10:20:23.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:23.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:23.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91260133
+01-20 10:20:24.385: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l /
+01-20 10:20:24.386: D/ADB_SERVICES(139): Calling send_ready local=18784, remote=15251
+01-20 10:20:24.386: W/ADB_SERVICES(27837): adb: unable to open /proc/27837/oom_adj
+01-20 10:20:24.399: D/ADB_SERVICES(139):  closing because is_eof=1 r=-1 s->fde.force_eof=0
+01-20 10:20:24.422: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@android/
+01-20 10:20:24.423: D/ADB_SERVICES(139): Calling send_ready local=18785, remote=15252
+01-20 10:20:24.423: W/ADB_SERVICES(27839): adb: unable to open /proc/27839/oom_adj
+01-20 10:20:24.432: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:24.459: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@cache/
+01-20 10:20:24.460: D/ADB_SERVICES(139): Calling send_ready local=18786, remote=15253
+01-20 10:20:24.461: W/ADB_SERVICES(27841): adb: unable to open /proc/27841/oom_adj
+01-20 10:20:24.469: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:24.492: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@custpack/
+01-20 10:20:24.492: D/ADB_SERVICES(139): Calling send_ready local=18787, remote=15254
+01-20 10:20:24.493: W/ADB_SERVICES(27843): adb: unable to open /proc/27843/oom_adj
+01-20 10:20:24.510: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:24.527: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@ebr1/
+01-20 10:20:24.527: D/ADB_SERVICES(139): Calling send_ready local=18788, remote=15255
+01-20 10:20:24.529: W/ADB_SERVICES(27845): adb: unable to open /proc/27845/oom_adj
+01-20 10:20:24.537: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:24.562: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@mobile_info/
+01-20 10:20:24.562: D/ADB_SERVICES(139): Calling send_ready local=18789, remote=15256
+01-20 10:20:24.564: W/ADB_SERVICES(27847): adb: unable to open /proc/27847/oom_adj
+01-20 10:20:24.569: D/ADB_SERVICES(139): adb socket read list (21) (18) (22) 
+01-20 10:20:24.569: D/ADB_SERVICES(139): read_data=25478
+01-20 10:20:24.569: D/ADB_SERVICES(139): max_read_time=0.000644 max_send_time=0.000046 
+01-20 10:20:24.570: D/ADB_SERVICES(139): adb local_socket_ready list (18) (21) (22) 
+01-20 10:20:24.572: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:24.600: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@sec_ro/
+01-20 10:20:24.600: D/ADB_SERVICES(139): Calling send_ready local=18790, remote=15257
+01-20 10:20:24.601: W/ADB_SERVICES(27849): adb: unable to open /proc/27849/oom_adj
+01-20 10:20:24.609: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:24.634: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@usrdata/
+01-20 10:20:24.634: D/ADB_SERVICES(139): Calling send_ready local=18791, remote=15258
+01-20 10:20:24.635: W/ADB_SERVICES(27851): adb: unable to open /proc/27851/oom_adj
+01-20 10:20:24.638: V/ActivityManager(361): Broadcast sticky: Intent { act=android.intent.action.SIG_STR flg=0x10 (has extras) } ordered=false userid=0
+01-20 10:20:24.642: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, sim1 before.
+01-20 10:20:24.642: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, signalStrength=3
+01-20 10:20:24.642: D/NetworkControllerGemini(461): updateDataNetType(0), DataNetType=10.
+01-20 10:20:24.643: D/Bluetooth HS/HF(529): [BT][HFG] [API] mStateReceiver.onReceive(android.intent.action.SIG_STR)
+01-20 10:20:24.644: D/Bluetooth HS/HF(529): [BT][HFG] [API] mHandler.handleMessage(10)
+01-20 10:20:24.652: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:24.653: D/NetworkControllerGemini(461): updateDataNetType(0), simColorId=2
+01-20 10:20:24.671: D/NetworkControllerGemini(461): updateDataNetType(0), DataNetType3G=Type_3G tempDataTypeIconId= 2130837709.
+01-20 10:20:24.681: D/NetworkControllerGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:24.681: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), regState=1
+01-20 10:20:24.681: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), hasService=true
+01-20 10:20:24.681: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), isRoaming=false, mInetCondition=1
+01-20 10:20:24.682: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), simColorId=2
+01-20 10:20:24.682: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), tempDataNetType = Type_3G , simColorId=2  tempPhoneSignalIconId[0] = 2130837730  tempPhoneSignalIconId[1] = 0
+01-20 10:20:24.682: D/NetworkControllerGemini(461):  updateTelephonySignalStrength(0) tempSIMCUSignVisible= true
+01-20 10:20:24.682: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0) mSIMCUSignVisible= true
+01-20 10:20:24.682: D/NetworkControllerGemini(461): refreshViews(0), DataConnected=false
+01-20 10:20:24.682: D/SignalClusterViewGemini(461): setDataConnected(0), dataConnected=false
+01-20 10:20:24.682: D/SignalClusterViewGemini(461): setDataNetType3G(0), dataNetType=Type_3G
+01-20 10:20:24.684: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:24.688: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:24.688: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:24.689: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:24.691: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:24.692: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:24.693: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:24.693: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, sim1 after.
+01-20 10:20:24.704: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:24.718: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:24.776: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:24.776: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990432
+01-20 10:20:24.793: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:24.793: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990282
+01-20 10:20:24.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:24.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:24.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91261133
+01-20 10:20:25.278: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:25.295: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:25.781: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:25.781: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990188
+01-20 10:20:25.798: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:25.798: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990276
+01-20 10:20:25.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:25.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:25.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91262133
+01-20 10:20:26.300: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:26.300: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:26.301: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-3ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:26.301: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:26.302: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-4ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:26.302: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:26.303: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:26.304: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:26.304: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:26.305: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-64
+01-20 10:20:26.305: D/StateMachine(361): handleMessage: X
+01-20 10:20:26.785: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:26.786: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.004000, fps:0.995152
+01-20 10:20:26.802: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:26.803: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995133
+01-20 10:20:26.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:26.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:26.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91263133
+01-20 10:20:27.288: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:27.305: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:27.790: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:27.791: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990163
+01-20 10:20:27.791: D/ADB_SERVICES(139): adb fdevent_process list (21) (14) (18) (22) 
+01-20 10:20:27.807: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:27.808: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990240
+01-20 10:20:27.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:27.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:27.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91264133
+01-20 10:20:28.795: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:28.796: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.004000, fps:0.995204
+01-20 10:20:28.812: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:28.813: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995161
+01-20 10:20:28.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:28.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:28.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91265133
+01-20 10:20:29.298: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:29.309: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:29.309: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:29.310: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-4ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:29.311: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:29.312: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-6ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:29.312: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:29.313: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:29.315: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:29.330: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:29.330: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:29.331: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-64
+01-20 10:20:29.331: D/StateMachine(361): handleMessage: X
+01-20 10:20:29.385: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l /
+01-20 10:20:29.386: D/ADB_SERVICES(139): Calling send_ready local=18792, remote=15259
+01-20 10:20:29.387: W/ADB_SERVICES(27853): adb: unable to open /proc/27853/oom_adj
+01-20 10:20:29.400: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:29.420: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@android/
+01-20 10:20:29.421: D/ADB_SERVICES(139): Calling send_ready local=18793, remote=15260
+01-20 10:20:29.422: W/ADB_SERVICES(27855): adb: unable to open /proc/27855/oom_adj
+01-20 10:20:29.430: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:29.455: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@cache/
+01-20 10:20:29.456: D/ADB_SERVICES(139): Calling send_ready local=18794, remote=15261
+01-20 10:20:29.457: W/ADB_SERVICES(27857): adb: unable to open /proc/27857/oom_adj
+01-20 10:20:29.465: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:29.494: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@custpack/
+01-20 10:20:29.494: D/ADB_SERVICES(139): Calling send_ready local=18795, remote=15262
+01-20 10:20:29.495: W/ADB_SERVICES(27859): adb: unable to open /proc/27859/oom_adj
+01-20 10:20:29.503: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:29.528: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@ebr1/
+01-20 10:20:29.529: D/ADB_SERVICES(139): Calling send_ready local=18796, remote=15263
+01-20 10:20:29.530: W/ADB_SERVICES(27861): adb: unable to open /proc/27861/oom_adj
+01-20 10:20:29.538: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:29.563: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@mobile_info/
+01-20 10:20:29.564: D/ADB_SERVICES(139): Calling send_ready local=18797, remote=15264
+01-20 10:20:29.565: W/ADB_SERVICES(27863): adb: unable to open /proc/27863/oom_adj
+01-20 10:20:29.569: D/ADB_SERVICES(139): adb socket read list (21) (18) (22) 
+01-20 10:20:29.569: D/ADB_SERVICES(139): read_data=30847
+01-20 10:20:29.569: D/ADB_SERVICES(139): max_read_time=0.000044 max_send_time=0.000046 
+01-20 10:20:29.570: D/ADB_SERVICES(139): adb local_socket_ready list (21) (18) (22) 
+01-20 10:20:29.574: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:29.599: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@sec_ro/
+01-20 10:20:29.599: D/ADB_SERVICES(139): Calling send_ready local=18798, remote=15265
+01-20 10:20:29.600: W/ADB_SERVICES(27865): adb: unable to open /proc/27865/oom_adj
+01-20 10:20:29.609: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:29.633: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@usrdata/
+01-20 10:20:29.634: D/ADB_SERVICES(139): Calling send_ready local=18799, remote=15266
+01-20 10:20:29.635: W/ADB_SERVICES(27867): adb: unable to open /proc/27867/oom_adj
+01-20 10:20:29.643: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:29.740: V/ActivityManager(361): Broadcast sticky: Intent { act=android.intent.action.SIG_STR flg=0x10 (has extras) } ordered=false userid=0
+01-20 10:20:29.743: D/Bluetooth HS/HF(529): [BT][HFG] [API] mStateReceiver.onReceive(android.intent.action.SIG_STR)
+01-20 10:20:29.743: D/Bluetooth HS/HF(529): [BT][HFG] [API] mHandler.handleMessage(10)
+01-20 10:20:29.743: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, sim1 before.
+01-20 10:20:29.744: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, signalStrength=3
+01-20 10:20:29.744: D/NetworkControllerGemini(461): updateDataNetType(0), DataNetType=10.
+01-20 10:20:29.744: D/NetworkControllerGemini(461): updateDataNetType(0), simColorId=2
+01-20 10:20:29.744: D/NetworkControllerGemini(461): updateDataNetType(0), DataNetType3G=Type_3G tempDataTypeIconId= 2130837709.
+01-20 10:20:29.744: D/NetworkControllerGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:29.745: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), regState=1
+01-20 10:20:29.745: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), hasService=true
+01-20 10:20:29.745: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), isRoaming=false, mInetCondition=1
+01-20 10:20:29.745: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), simColorId=2
+01-20 10:20:29.745: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), tempDataNetType = Type_3G , simColorId=2  tempPhoneSignalIconId[0] = 2130837730  tempPhoneSignalIconId[1] = 0
+01-20 10:20:29.746: D/NetworkControllerGemini(461):  updateTelephonySignalStrength(0) tempSIMCUSignVisible= true
+01-20 10:20:29.746: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0) mSIMCUSignVisible= true
+01-20 10:20:29.746: D/NetworkControllerGemini(461): refreshViews(0), DataConnected=false
+01-20 10:20:29.746: D/SignalClusterViewGemini(461): setDataConnected(0), dataConnected=false
+01-20 10:20:29.746: D/SignalClusterViewGemini(461): setDataNetType3G(0), dataNetType=Type_3G
+01-20 10:20:29.747: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:29.748: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:29.748: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:29.748: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:29.749: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:29.749: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:29.749: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:29.750: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, sim1 after.
+01-20 10:20:29.766: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:29.780: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:29.801: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:29.801: I/SurfaceTextureClient(461): [0x538e9340] frames:3, duration:1.004000, fps:2.985218
+01-20 10:20:29.817: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:29.818: I/SurfaceFlinger(110): [SurfaceFlinger] frames:3, duration:1.004000, fps:2.985405
+01-20 10:20:29.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:29.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:29.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91266133
+01-20 10:20:30.565: I/AK__officetime(27729): AK_officetime 3.5.1
+01-20 10:20:30.565: I/AK__officetime(27729): AK_officetime 3.1
+01-20 10:20:30.566: I/AK__officetime(27729): AK_officetime 3.2
+01-20 10:20:30.566: I/AK__officetime(27729): AK_officetime 3.3
+01-20 10:20:30.566: I/AK__officetime(27729): AK_officetime 3.4
+01-20 10:20:30.568: I/AK__officetime(27729): AK_officetime 3.5
+01-20 10:20:30.805: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:30.805: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.004000, fps:0.995320
+01-20 10:20:30.822: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:30.823: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995125
+01-20 10:20:30.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:30.943: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:30.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91267133
+01-20 10:20:31.307: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:31.324: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:31.810: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:31.810: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990272
+01-20 10:20:31.827: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:31.827: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990294
+01-20 10:20:31.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:31.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:31.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91268133
+01-20 10:20:32.335: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:32.335: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:32.336: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-4ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:32.336: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:32.336: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-4ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:32.337: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:32.337: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:32.338: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:32.338: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:32.339: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-64
+01-20 10:20:32.340: D/StateMachine(361): handleMessage: X
+01-20 10:20:32.815: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:32.815: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.004000, fps:0.995027
+01-20 10:20:32.815: D/ADB_SERVICES(139): adb fdevent_process list (21) (14) (18) (22) 
+01-20 10:20:32.832: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:32.832: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995137
+01-20 10:20:32.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:32.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:32.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91269133
+01-20 10:20:33.317: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:33.334: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:33.574: V/Provider/Setting(361): from settings cache , name = reboot_interval value = null
+01-20 10:20:33.579: D/InputReader(361): InputReader::monitor: lock
+01-20 10:20:33.579: D/InputReader(361): InputReader::monitor: wait 
+01-20 10:20:33.580: D/InputReader(361): InputReader::monitor: unlock
+01-20 10:20:33.580: D/InputReader(361): InputReader::monitor: done
+01-20 10:20:33.820: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:33.820: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990262
+01-20 10:20:33.837: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:33.837: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990216
+01-20 10:20:33.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:33.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:33.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91270133
+01-20 10:20:34.385: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l /
+01-20 10:20:34.385: D/ADB_SERVICES(139): Calling send_ready local=18800, remote=15267
+01-20 10:20:34.386: W/ADB_SERVICES(27869): adb: unable to open /proc/27869/oom_adj
+01-20 10:20:34.406: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:34.420: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@android/
+01-20 10:20:34.421: D/ADB_SERVICES(139): Calling send_ready local=18801, remote=15268
+01-20 10:20:34.422: W/ADB_SERVICES(27871): adb: unable to open /proc/27871/oom_adj
+01-20 10:20:34.430: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:34.457: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@cache/
+01-20 10:20:34.457: D/ADB_SERVICES(139): Calling send_ready local=18802, remote=15269
+01-20 10:20:34.458: W/ADB_SERVICES(27873): adb: unable to open /proc/27873/oom_adj
+01-20 10:20:34.467: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:34.491: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@custpack/
+01-20 10:20:34.492: D/ADB_SERVICES(139): Calling send_ready local=18803, remote=15270
+01-20 10:20:34.493: W/ADB_SERVICES(27875): adb: unable to open /proc/27875/oom_adj
+01-20 10:20:34.501: D/ADB_SERVICES(139):  closing because is_eof=1 r=-1 s->fde.force_eof=0
+01-20 10:20:34.526: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@ebr1/
+01-20 10:20:34.527: D/ADB_SERVICES(139): Calling send_ready local=18804, remote=15271
+01-20 10:20:34.528: W/ADB_SERVICES(27877): adb: unable to open /proc/27877/oom_adj
+01-20 10:20:34.537: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:34.564: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@mobile_info/
+01-20 10:20:34.565: D/ADB_SERVICES(139): Calling send_ready local=18805, remote=15272
+01-20 10:20:34.566: W/ADB_SERVICES(27879): adb: unable to open /proc/27879/oom_adj
+01-20 10:20:34.571: D/ADB_SERVICES(139): adb socket read list (18) (21) (22) 
+01-20 10:20:34.571: D/ADB_SERVICES(139): read_data=29950
+01-20 10:20:34.571: D/ADB_SERVICES(139): max_read_time=0.000053 max_send_time=0.000232 
+01-20 10:20:34.573: D/ADB_SERVICES(139): adb local_socket_ready list (21) (18) (22) 
+01-20 10:20:34.574: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:34.605: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@sec_ro/
+01-20 10:20:34.606: D/ADB_SERVICES(139): Calling send_ready local=18806, remote=15273
+01-20 10:20:34.607: W/ADB_SERVICES(27881): adb: unable to open /proc/27881/oom_adj
+01-20 10:20:34.616: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:34.642: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@usrdata/
+01-20 10:20:34.642: D/ADB_SERVICES(139): Calling send_ready local=18807, remote=15274
+01-20 10:20:34.643: W/ADB_SERVICES(27883): adb: unable to open /proc/27883/oom_adj
+01-20 10:20:34.651: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:34.825: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:34.825: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.004000, fps:0.995120
+01-20 10:20:34.842: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:34.842: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995158
+01-20 10:20:34.861: V/ActivityManager(361): Broadcast sticky: Intent { act=android.intent.action.SIG_STR flg=0x10 (has extras) } ordered=false userid=0
+01-20 10:20:34.865: D/Bluetooth HS/HF(529): [BT][HFG] [API] mStateReceiver.onReceive(android.intent.action.SIG_STR)
+01-20 10:20:34.865: D/Bluetooth HS/HF(529): [BT][HFG] [API] mHandler.handleMessage(10)
+01-20 10:20:34.865: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, sim1 before.
+01-20 10:20:34.865: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, signalStrength=3
+01-20 10:20:34.865: D/NetworkControllerGemini(461): updateDataNetType(0), DataNetType=10.
+01-20 10:20:34.865: D/NetworkControllerGemini(461): updateDataNetType(0), simColorId=2
+01-20 10:20:34.866: D/NetworkControllerGemini(461): updateDataNetType(0), DataNetType3G=Type_3G tempDataTypeIconId= 2130837709.
+01-20 10:20:34.866: D/NetworkControllerGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:34.866: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), regState=1
+01-20 10:20:34.866: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), hasService=true
+01-20 10:20:34.866: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), isRoaming=false, mInetCondition=1
+01-20 10:20:34.867: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), simColorId=2
+01-20 10:20:34.867: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0), tempDataNetType = Type_3G , simColorId=2  tempPhoneSignalIconId[0] = 2130837730  tempPhoneSignalIconId[1] = 0
+01-20 10:20:34.867: D/NetworkControllerGemini(461):  updateTelephonySignalStrength(0) tempSIMCUSignVisible= true
+01-20 10:20:34.867: D/NetworkControllerGemini(461): updateTelephonySignalStrength(0) mSIMCUSignVisible= true
+01-20 10:20:34.867: D/NetworkControllerGemini(461): refreshViews(0), DataConnected=false
+01-20 10:20:34.867: D/SignalClusterViewGemini(461): setDataConnected(0), dataConnected=false
+01-20 10:20:34.868: D/SignalClusterViewGemini(461): setDataNetType3G(0), dataNetType=Type_3G
+01-20 10:20:34.869: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:34.870: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:34.870: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:34.870: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:34.871: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:34.872: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:34.872: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:34.872: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, sim1 after.
+01-20 10:20:34.884: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:34.897: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:34.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:34.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:34.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91271133
+01-20 10:20:35.328: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:35.341: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:35.341: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:35.342: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-2ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:35.342: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:35.342: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-3ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:35.343: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:35.343: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:35.344: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:35.360: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:35.360: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:35.361: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-61
+01-20 10:20:35.362: D/StateMachine(361): handleMessage: X
+01-20 10:20:35.489: D/NetworkControllerGemini(461): refreshViews(0), DataConnected=false
+01-20 10:20:35.489: D/NetworkControllerGemini(461): refreshViews(0), set parameters to signal cluster view.
+01-20 10:20:35.489: D/NetworkControllerGemini(461): refreshViews(0), tempPhoneSignalIconId.0 = 2130837730  tempPhoneSignalIconId.1 = 0  tempMobileActivityIconId= 0  tempDataTypeIconId= 2130837709
+01-20 10:20:35.490: D/SignalClusterViewGemini(461): setMobileDataIndicators(0), visible=true, strengthIcon[0] ~ [1] 2130837730 ~ 0
+01-20 10:20:35.491: D/SignalClusterViewGemini(461): setDataConnected(0), dataConnected=false
+01-20 10:20:35.491: D/SignalClusterViewGemini(461): setDataNetType3G(0), dataNetType=Type_3G
+01-20 10:20:35.493: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:35.495: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:35.496: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:35.496: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:35.498: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:35.499: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:35.499: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:35.499: D/NetworkControllerGemini(461): refreshViews(1), DataConnected=false
+01-20 10:20:35.500: D/SignalClusterViewGemini(461): setDataConnected(1), dataConnected=false
+01-20 10:20:35.501: D/SignalClusterViewGemini(461): setDataNetType3G(1), dataNetType=Type_G
+01-20 10:20:35.502: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:35.504: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:35.504: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:35.505: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:35.507: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:35.508: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:35.508: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:35.514: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:35.530: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:35.830: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:35.831: I/SurfaceTextureClient(461): [0x538e9340] frames:4, duration:1.004000, fps:3.980652
+01-20 10:20:35.846: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:35.847: I/SurfaceFlinger(110): [SurfaceFlinger] frames:4, duration:1.004000, fps:3.980548
+01-20 10:20:35.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:35.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:35.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91272133
+01-20 10:20:36.490: D/NetworkControllerGemini(461): refreshViews(0), DataConnected=false
+01-20 10:20:36.490: D/NetworkControllerGemini(461): refreshViews(0), set parameters to signal cluster view.
+01-20 10:20:36.491: D/NetworkControllerGemini(461): refreshViews(0), tempPhoneSignalIconId.0 = 2130837730  tempPhoneSignalIconId.1 = 0  tempMobileActivityIconId= 0  tempDataTypeIconId= 2130837709
+01-20 10:20:36.491: D/SignalClusterViewGemini(461): setMobileDataIndicators(0), visible=true, strengthIcon[0] ~ [1] 2130837730 ~ 0
+01-20 10:20:36.491: D/SignalClusterViewGemini(461): setDataConnected(0), dataConnected=false
+01-20 10:20:36.492: D/SignalClusterViewGemini(461): setDataNetType3G(0), dataNetType=Type_3G
+01-20 10:20:36.494: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:36.496: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:36.497: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:36.497: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:36.499: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:36.500: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:36.500: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:36.501: D/NetworkControllerGemini(461): refreshViews(1), DataConnected=false
+01-20 10:20:36.501: D/SignalClusterViewGemini(461): setDataConnected(1), dataConnected=false
+01-20 10:20:36.502: D/SignalClusterViewGemini(461): setDataNetType3G(1), dataNetType=Type_G
+01-20 10:20:36.503: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:36.505: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:36.505: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:36.506: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:36.508: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:36.509: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:36.509: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:36.514: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:36.516: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:36.596: E/GmsUtils(27776): Failed to connect to Google API client: ConnectionResult{statusCode=TIMEOUT, resolution=null}
+01-20 10:20:36.597: D/ActivityThread(27776): SVC-Destroying service: com.google.android.music.wear.WearMetadataSyncService@419f8210
+01-20 10:20:36.605: D/dalvikvm(27776): threadid=19: exiting
+01-20 10:20:36.605: D/dalvikvm(27776): threadid=19: bye!
+01-20 10:20:36.607: D/ActivityThread(27776): SVC-STOP_SERVICE handled : 0 / android.os.BinderProxy@41870bf0
+01-20 10:20:36.835: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:36.835: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990524
+01-20 10:20:36.851: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:36.852: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990277
+01-20 10:20:36.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:36.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:36.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91273133
+01-20 10:20:36.958: V/ActivityManager(361): Broadcast sticky: Intent { act=android.intent.action.SIG_STR flg=0x10 (has extras) } ordered=false userid=0
+01-20 10:20:36.959: D/Bluetooth HS/HF(529): [BT][HFG] [API] mStateReceiver.onReceive(android.intent.action.SIG_STR)
+01-20 10:20:36.960: D/Bluetooth HS/HF(529): [BT][HFG] [API] mHandler.handleMessage(10)
+01-20 10:20:36.960: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, sim2 before.
+01-20 10:20:36.960: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, signalStrength=4
+01-20 10:20:36.960: D/NetworkControllerGemini(461): updateDataNetType(1), DataNetType=1.
+01-20 10:20:36.960: D/NetworkControllerGemini(461): updateDataNetType(1), simColorId=1
+01-20 10:20:36.960: D/NetworkControllerGemini(461): updateDataNetType(1), DataNetType3G=Type_G tempDataTypeIconId= 2130837703.
+01-20 10:20:36.961: D/NetworkControllerGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:36.961: D/NetworkControllerGemini(461): updateTelephonySignalStrength(1), regState=1
+01-20 10:20:36.961: D/NetworkControllerGemini(461): updateTelephonySignalStrength(1), hasService=true
+01-20 10:20:36.961: D/NetworkControllerGemini(461): updateTelephonySignalStrength(1), isRoaming=false, mInetCondition=1
+01-20 10:20:36.961: D/NetworkControllerGemini(461): updateTelephonySignalStrength(1), simColorId=1
+01-20 10:20:36.961: D/NetworkControllerGemini(461): updateTelephonySignalStrength(1), tempDataNetType = Type_G , simColorId=1  tempPhoneSignalIconId[0] = 2130837735  tempPhoneSignalIconId[1] = 0
+01-20 10:20:36.961: D/NetworkControllerGemini(461):  updateTelephonySignalStrength(1) tempSIMCUSignVisible= true
+01-20 10:20:36.962: D/NetworkControllerGemini(461): updateTelephonySignalStrength(1) mSIMCUSignVisible= true
+01-20 10:20:36.962: D/NetworkControllerGemini(461): refreshViews(1), DataConnected=false
+01-20 10:20:36.962: D/SignalClusterViewGemini(461): setDataConnected(1), dataConnected=false
+01-20 10:20:36.962: D/SignalClusterViewGemini(461): setDataNetType3G(1), dataNetType=Type_G
+01-20 10:20:36.963: D/SignalClusterViewGemini(461): apply, mMobileVisible=true mMobileActivityId=0 mMobileTypeId=2130837709 mMobileStrengthId[0] = 2130837730 mMobileStrengthId[1] = 0
+01-20 10:20:36.964: D/SignalClusterViewGemini(461): isSimInserted(0), SimInserted=true
+01-20 10:20:36.964: D/SignalClusterViewGemini(461): mDataNetType =Type_3G resId= 0 simColorId = 2
+01-20 10:20:36.964: D/SignalClusterViewGemini(461): apply, mMobileVisibleGemini=true mMobileActivityIdGemini=0 mMobileTypeIdGemini=2130837703 mMobileStrengthIdGemini[0] = 2130837735 mMobileStrengthIdGemini[1] = 0
+01-20 10:20:36.965: D/SignalClusterViewGemini(461): isSimInserted(1), SimInserted=true
+01-20 10:20:36.965: D/SignalClusterViewGemini(461): mDataNetTypeGemini =Type_G resId= 0 simColorId = 1
+01-20 10:20:36.965: D/SignalClusterViewGemini(461): apply, mMobileVisible=true, mWifiVisible=true, mIsAirplaneMode=false
+01-20 10:20:36.966: D/NetworkControllerGemini(461): PhoneStateListener:onSignalStrengthsChanged, sim2 after.
+01-20 10:20:36.970: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:36.982: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:37.337: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:37.354: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:37.839: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:37.840: I/SurfaceTextureClient(461): [0x538e9340] frames:3, duration:1.005000, fps:2.985033
+01-20 10:20:37.840: D/ADB_SERVICES(139): adb fdevent_process list (21) (14) (18) (22) 
+01-20 10:20:37.856: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:37.857: I/SurfaceFlinger(110): [SurfaceFlinger] frames:3, duration:1.004000, fps:2.985441
+01-20 10:20:37.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:37.943: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:37.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91274133
+01-20 10:20:38.365: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:38.365: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:38.366: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-4ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:38.366: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:38.367: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-5ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:38.368: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:38.368: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:38.369: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:38.370: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:38.371: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-61
+01-20 10:20:38.372: D/StateMachine(361): handleMessage: X
+01-20 10:20:38.844: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:38.844: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.004000, fps:0.995126
+01-20 10:20:38.861: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:38.862: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995129
+01-20 10:20:38.943: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:38.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:38.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91275133
+01-20 10:20:39.347: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:39.363: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:39.444: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l /
+01-20 10:20:39.444: D/ADB_SERVICES(139): Calling send_ready local=18808, remote=15275
+01-20 10:20:39.445: W/ADB_SERVICES(27885): adb: unable to open /proc/27885/oom_adj
+01-20 10:20:39.457: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:39.479: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@android/
+01-20 10:20:39.479: D/ADB_SERVICES(139): Calling send_ready local=18809, remote=15276
+01-20 10:20:39.480: W/ADB_SERVICES(27887): adb: unable to open /proc/27887/oom_adj
+01-20 10:20:39.488: D/ADB_SERVICES(139):  closing because is_eof=1 r=-1 s->fde.force_eof=0
+01-20 10:20:39.514: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@cache/
+01-20 10:20:39.515: D/ADB_SERVICES(139): Calling send_ready local=18810, remote=15277
+01-20 10:20:39.515: W/ADB_SERVICES(27889): adb: unable to open /proc/27889/oom_adj
+01-20 10:20:39.524: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:39.549: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@custpack/
+01-20 10:20:39.550: D/ADB_SERVICES(139): Calling send_ready local=18811, remote=15278
+01-20 10:20:39.551: W/ADB_SERVICES(27891): adb: unable to open /proc/27891/oom_adj
+01-20 10:20:39.559: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:39.584: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@ebr1/
+01-20 10:20:39.585: D/ADB_SERVICES(139): Calling send_ready local=18812, remote=15279
+01-20 10:20:39.585: D/ADB_SERVICES(139): adb local_socket_ready list (21) (22) (18) 
+01-20 10:20:39.585: D/ADB_SERVICES(139): adb socket read list (18) (21) (22) 
+01-20 10:20:39.585: D/ADB_SERVICES(139): read_data=51263
+01-20 10:20:39.585: D/ADB_SERVICES(139): max_read_time=0.000043 max_send_time=0.000142 
+01-20 10:20:39.586: W/ADB_SERVICES(27893): adb: unable to open /proc/27893/oom_adj
+01-20 10:20:39.594: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:39.619: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@mobile_info/
+01-20 10:20:39.619: D/ADB_SERVICES(139): Calling send_ready local=18813, remote=15280
+01-20 10:20:39.621: W/ADB_SERVICES(27895): adb: unable to open /proc/27895/oom_adj
+01-20 10:20:39.628: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:39.654: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@sec_ro/
+01-20 10:20:39.654: D/ADB_SERVICES(139): Calling send_ready local=18814, remote=15281
+01-20 10:20:39.655: W/ADB_SERVICES(27897): adb: unable to open /proc/27897/oom_adj
+01-20 10:20:39.664: D/ADB_SERVICES(139):  closing because is_eof=1 r=1 s->fde.force_eof=0
+01-20 10:20:39.689: W/ADB_SERVICES(139): create_local_service_socket() name=shell:ls -l -d /emmc@usrdata/
+01-20 10:20:39.690: D/ADB_SERVICES(139): Calling send_ready local=18815, remote=15282
+01-20 10:20:39.691: W/ADB_SERVICES(27899): adb: unable to open /proc/27899/oom_adj
+01-20 10:20:39.699: D/ADB_SERVICES(139):  closing because is_eof=1 r=-1 s->fde.force_eof=0
+01-20 10:20:39.849: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:39.849: I/SurfaceTextureClient(461): [0x538e9340] frames:2, duration:1.004000, fps:1.990285
+01-20 10:20:39.866: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:39.866: I/SurfaceFlinger(110): [SurfaceFlinger] frames:2, duration:1.004000, fps:1.990288
+01-20 10:20:39.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:39.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:39.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91276133
+01-20 10:20:40.854: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:40.854: I/SurfaceTextureClient(461): [0x538e9340] frames:1, duration:1.004000, fps:0.995131
+01-20 10:20:40.871: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:40.871: I/SurfaceFlinger(110): [SurfaceFlinger] frames:1, duration:1.004000, fps:0.995136
+01-20 10:20:40.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:40.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:40.944: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91277133
+01-20 10:20:41.356: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:41.373: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:41.374: D/StateMachine(361): handleMessage: E msg.what=131155
+01-20 10:20:41.375: D/StateMachine(361): processMsg: ConnectedState
+01-20 10:20:41.376: D/WifiStateMachine(361): ConnectedState{ what=131155 when=-4ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:41.376: D/StateMachine(361): processMsg: L2ConnectedState
+01-20 10:20:41.377: D/WifiStateMachine(361): L2ConnectedState{ what=131155 when=-5ms arg1=498 target=Handler (com.android.internal.util.StateMachine$SmHandler) {41d86090} }
+01-20 10:20:41.378: D/WifiNative-wlan0(361): doString: SIGNAL_POLL
+01-20 10:20:41.379: D/wpa_supplicant(16884): wpa_s 0x40feb6e8 cmd SIGNAL_POLL
+01-20 10:20:41.390: D/wpa_supplicant(16884): nl80211: survey data missing!
+01-20 10:20:41.390: D/WifiCommon(361): [wlan0]SET "SIGNAL_POLL"
+01-20 10:20:41.391: I/WifiStateMachine(361): fetchRssiAndLinkSpeedNative, newRssi=-61
+01-20 10:20:41.391: D/StateMachine(361): handleMessage: X
+01-20 10:20:41.691: V/ActivityManager(361): Broadcast sticky: Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } ordered=false userid=0
+01-20 10:20:41.695: D/KeyguardUpdateMonitor(361): received broadcast android.intent.action.BATTERY_CHANGED
+01-20 10:20:41.697: D/Bluetooth HS/HF(529): [BT][HFG] [API] mStateReceiver.onReceive(android.intent.action.BATTERY_CHANGED)
+01-20 10:20:41.698: I/KeyguardUpdateMonitor(361): ACTION_BATTERY_CHANGED, status=2,plugged=2, level=62, health=2
+01-20 10:20:41.698: D/Bluetooth HS/HF(529): [BT][HFG] [API] mHandler.handleMessage(9)
+01-20 10:20:41.698: D/Bluetooth HS/HF(529): [BT][HFG] [API] updateBatteryState
+01-20 10:20:41.699: D/UsbDeviceManager(361): onReceive - ACTION_BATTERY_CHANGED - mPlugType: 2, mSettingUsbCharging: false, mConnected: true, mSettingUsbBicr: false
+01-20 10:20:41.700: D/KeyguardUpdateMonitor(361): handleBatteryUpdate
+01-20 10:20:41.702: D/WifiService(361): onReceive, action=android.intent.action.BATTERY_CHANGED
+01-20 10:20:41.704: V/Provider/Setting(361): from settings cache , name = wifi_idle_ms value = null
+01-20 10:20:41.705: V/Provider/Setting(361): from settings cache , name = stay_on_while_plugged_in value = 0
+01-20 10:20:41.705: D/WifiService(361): ACTION_BATTERY_CHANGED pluggedType: 2
+01-20 10:20:41.707: D/StatusBar.BatteryController(461): BatteryController onReceive action is android.intent.action.BATTERY_CHANGED
+01-20 10:20:41.708: D/StatusBar.BatteryController(461):  plugged is true fulled is false mBatteryOverTemperature = false  R.drawable.stat_sys_battery_charge is 2130837626 R.drawable.stat_sys_battery is 2130837617  icon is 2130837626
+01-20 10:20:41.709: D/StatusBar.BatteryController(461): mBatteryPercentage is 62% mShouldShowBatteryPercentage is true mLabelViews.size() 1
+01-20 10:20:41.712: D/PowerUI(461): action = android.intent.action.BATTERY_CHANGED
+01-20 10:20:41.712: D/PowerUI(461): Intent start() ret = false mHideLowBDialog= true
+01-20 10:20:41.712: D/PowerUI(461): oldBatteryLevel = 62mBatteryLevel = 62
+01-20 10:20:41.712: D/PowerUI(461): dismissLowBatteryWarning***************
+01-20 10:20:41.737: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:41.745: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:41.859: D/SurfaceTexture(110): [StatusBar] onFrameAvailable
+01-20 10:20:41.860: I/SurfaceTextureClient(461): [0x538e9340] frames:3, duration:1.004000, fps:2.985797
+01-20 10:20:41.876: D/SurfaceTexture(110): [StatusBar] updateTexImage
+01-20 10:20:41.876: I/SurfaceFlinger(110): [SurfaceFlinger] frames:3, duration:1.004000, fps:2.985447
+01-20 10:20:41.944: D/PHONE/CallTime(529): [CallTime] PeriodicTimerCallback's run() is called
+01-20 10:20:41.944: D/PHONE/CallTime(529): [CallTime] receive CALL_TIME_UPDATE message
+01-20 10:20:41.945: D/PHONE/CallTime(529): [CallTime] periodicUpdateTimer() @ 91278133

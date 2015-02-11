@@ -1,0 +1,53 @@
+--------- beginning of /dev/log/main
+01-20 08:06:45.289  4376  4376 I SurfaceTextureClient: [0x51fd8a10] frames:3, duration:1.927000, fps:1.556097
+01-20 08:06:46.198  4376  4376 V Provider/Setting: from settings cache , name = sound_effects_enabled value = 0
+01-20 08:06:46.280  4376  4376 V MX.LogCollector: Log collected and zipped into '/storage/sdcard0/Android/data/com.mxtech.logcollector/log.txt' (67ms)
+01-20 08:06:46.441  4376  4376 I MX.LogCollector: Saving report file to '/storage/sdcard0/report_2015-01-20_080646.zip'
+01-20 08:06:46.499  4376  4376 V MX      : Processor	: ARMv7 Processor rev 10 (v7l)
+01-20 08:06:46.499  4376  4376 V MX      : BogoMIPS	: 1993.93
+01-20 08:06:46.499  4376  4376 V MX      : Features	: swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls 
+01-20 08:06:46.499  4376  4376 V MX      : CPU implementer	: 0x41
+01-20 08:06:46.499  4376  4376 V MX      : CPU architecture: 7
+01-20 08:06:46.499  4376  4376 V MX      : CPU variant	: 0x2
+01-20 08:06:46.499  4376  4376 V MX      : CPU part	: 0xc09
+01-20 08:06:46.499  4376  4376 V MX      : CPU revision	: 10
+01-20 08:06:46.499  4376  4376 V MX      : 
+01-20 08:06:46.499  4376  4376 V MX      : Hardware	: MT6575
+01-20 08:06:46.499  4376  4376 V MX      : Revision	: 0000
+01-20 08:06:46.499  4376  4376 V MX      : Serial		: 0000000000000000
+01-20 08:06:46.545  4376  4376 I MX.DeviceUtils: screenWidthDp=320 screenHeightDp=508 smallestScreenWidthDp=320 is-tablet=false
+01-20 08:06:46.850  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:06:46.994  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x52dab000) size(812160) f(0x5)
+01-20 08:06:46.995  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x530d2000) size(812160) f(0x5)
+01-20 08:06:46.995  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x540fd000) size(812160) f(0x5)
+01-20 08:06:46.997  4376  4376 I Choreographer: Skipped 42 frames!  The application may be doing too much work on its main thread.
+01-20 08:06:47.000  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x1)
+01-20 08:06:47.094  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x52d73000) size(812160) f(0x1)
+01-20 08:06:47.151  4376  4376 V InputMethodManager: onWindowFocus: null softInputMode=291 first=true flags=#1810100
+01-20 08:06:47.151  4376  4376 V InputMethodManager: Starting input: view=com.android.internal.policy.impl.PhoneWindow$DecorView@4180cce0
+01-20 08:06:47.151  4376  4376 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@418c70e0 ic=null
+01-20 08:06:47.151  4376  4376 V InputMethodManager: START INPUT: com.android.internal.policy.impl.PhoneWindow$DecorView@4180cce0 ic=null tba=android.view.inputmethod.EditorInfo@418c70e0 controlFlags=#104
+01-20 08:06:47.159  4376  4376 V InputMethodManager: Starting input: Bind result=InputBindResult{com.android.internal.view.IInputMethodSession$Stub$Proxy@418c7c70 com.touchtype.swiftkey.tcl.phone/com.touchtype.KeyboardService #765}
+01-20 08:06:47.196  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x1)
+01-20 08:06:50.353  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x52d73000) size(193920) f(0x1)
+--------- beginning of /dev/log/system
+01-20 08:07:31.598  4376  4376 D ActivityThread: ACT-AM_ON_PAUSE_CALLED ActivityRecord{417e6508 token=android.os.BinderProxy@417e5bc8 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-20 08:07:31.621  4376  4376 D ActivityThread: ACT-PAUSE_ACTIVITY_FINISHING handled : 0 / android.os.BinderProxy@417e5bc8
+01-20 08:07:31.621  4376  4376 D ActivityThread: ACT-AM_ON_RESUME_CALLED ActivityRecord{417e7280 token=android.os.BinderProxy@417e6940 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-20 08:07:31.622  4376  4376 D ActivityThread: ACT-RESUME_ACTIVITY handled : 0 / android.os.BinderProxy@417e6940
+01-20 08:07:31.648  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:07:31.664  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x53b21000) size(1536000) f(0x5)
+01-20 08:07:31.665  4376  4376 W MMUMapper: invalid operation for unregister MVA with VA(0x53f86000) size(1536000) f(0x5)
+01-20 08:07:31.673  4376  4376 I SurfaceTextureClient: [STC::queueBuffer] this:0x538eb9d8, api:1, last queue time elapsed :48018 ms
+01-20 08:07:31.673  4376  4376 I SurfaceTextureClient: [0x538eb9d8] frames:2, duration:48.018002, fps:0.041651
+01-20 08:07:31.679  4376  4376 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-20 08:07:31.682  4376  4376 D OpenGLRenderer: Flushing caches (mode 0)
+01-20 08:07:31.686  4376  4376 D ActivityThread: ACT-DESTROY_ACTIVITY handled : 1 / android.os.BinderProxy@417e5bc8
+01-20 08:07:37.915  4376  4376 I SurfaceTextureClient: [STC::queueBuffer] this:0x538eb9d8, api:1, last queue time elapsed :6240 ms
+01-20 08:07:37.915  4376  4376 I SurfaceTextureClient: [0x538eb9d8] frames:1, duration:6.240000, fps:0.160241
+01-20 08:07:43.221  4376  4376 D dalvikvm: GC_EXPLICIT freed 577K, 9% free 8589K/9399K, paused 1ms+3ms, total 26ms
+01-20 08:07:43.228  4376  4376 D ActivityThread: LOW_MEMORY handled : 0 / null
+01-20 08:07:50.412  4376  4376 I SurfaceTextureClient: [STC::queueBuffer] this:0x538eb9d8, api:1, last queue time elapsed :12486 ms
+01-20 08:07:50.415  4376  4376 I SurfaceTextureClient: [0x538eb9d8] frames:1, duration:12.486000, fps:0.080084
+01-20 08:07:51.506  4376  4376 I SurfaceTextureClient: [0x538eb9d8] frames:1, duration:1.098000, fps:0.910207
+01-20 08:07:52.391  4376  4376 V Provider/Setting: from settings cache , name = sound_effects_enabled value = 0

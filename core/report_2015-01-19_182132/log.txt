@@ -1,0 +1,78 @@
+--------- beginning of /dev/log/main
+01-19 18:21:24.500  2957  2957 D dalvikvm: zygote get new systemTid : 2957
+01-19 18:21:24.501  2957  2958 D dalvikvm: threadid=2: interp stack at 0x4f1be000
+01-19 18:21:24.501  2957  2959 D dalvikvm: threadid=3: interp stack at 0x4f2c6000
+01-19 18:21:24.502  2957  2959 D dalvikvm: Elevating priority from 0 to -8
+01-19 18:21:24.502  2957  2960 D dalvikvm: threadid=4: interp stack at 0x4f3ce000
+01-19 18:21:24.502  2957  2957 D dalvikvm: zygote get thread init done
+01-19 18:21:24.510  2957  2957 D dalvikvm: create interp thread : stack size=32KB
+01-19 18:21:24.510  2957  2957 D dalvikvm: create new thread
+01-19 18:21:24.510  2957  2957 D dalvikvm: update thread list
+01-19 18:21:24.510  2957  2962 D dalvikvm: threadid=5: interp stack at 0x52029000
+01-19 18:21:24.510  2957  2962 D dalvikvm: threadid=5: created from interp
+01-19 18:21:24.510  2957  2957 D dalvikvm: start new thread
+01-19 18:21:24.510  2957  2957 D dalvikvm: create interp thread : stack size=32KB
+01-19 18:21:24.510  2957  2957 D dalvikvm: create new thread
+01-19 18:21:24.510  2957  2957 D dalvikvm: update thread list
+01-19 18:21:24.510  2957  2962 D dalvikvm: threadid=5: notify debugger
+01-19 18:21:24.510  2957  2962 D dalvikvm: threadid=5 (ReferenceQueueDaemon): calling run()
+01-19 18:21:24.510  2957  2963 D dalvikvm: threadid=6: interp stack at 0x52131000
+01-19 18:21:24.511  2957  2963 D dalvikvm: threadid=6: created from interp
+01-19 18:21:24.511  2957  2957 D dalvikvm: start new thread
+01-19 18:21:24.511  2957  2957 D dalvikvm: create interp thread : stack size=32KB
+01-19 18:21:24.511  2957  2957 D dalvikvm: create new thread
+01-19 18:21:24.511  2957  2957 D dalvikvm: update thread list
+01-19 18:21:24.511  2957  2963 D dalvikvm: threadid=6: notify debugger
+01-19 18:21:24.511  2957  2963 D dalvikvm: threadid=6 (FinalizerDaemon): calling run()
+01-19 18:21:24.511  2957  2964 D dalvikvm: threadid=7: interp stack at 0x52239000
+01-19 18:21:24.511  2957  2964 D dalvikvm: threadid=7: created from interp
+01-19 18:21:24.511  2957  2957 D dalvikvm: start new thread
+01-19 18:21:24.511  2957  2957 D Zygote  : fork pid : 0
+01-19 18:21:24.513  2957  2964 D dalvikvm: threadid=7: notify debugger
+01-19 18:21:24.513  2957  2964 D dalvikvm: threadid=7 (FinalizerWatchdogDaemon): calling run()
+01-19 18:21:24.544  2957  2968 D dalvikvm: threadid=8: interp stack at 0x5263f000
+01-19 18:21:24.567  2957  2969 D dalvikvm: threadid=9: interp stack at 0x52747000
+01-19 18:21:24.597  2957  2957 E Trace   : error opening trace file: No such file or directory (2)
+01-19 18:21:24.741  2957  2957 D dalvikvm: open_cached_dex_file : /data/app/com.mxtech.logcollector-1.apk /data/dalvik-cache/data@app@com.mxtech.logcollector-1.apk@classes.dex
+01-19 18:21:24.757  2957  2957 I dalvikvm: Could not find method android.content.res.Configuration.setLocale, referenced from method com.mxtech.app.MXApplication.onConfigurationChanged
+01-19 18:21:24.757  2957  2957 W dalvikvm: VFY: unable to resolve virtual method 245: Landroid/content/res/Configuration;.setLocale (Ljava/util/Locale;)V
+01-19 18:21:24.757  2957  2957 D dalvikvm: VFY: replacing opcode 0x6e at 0x0056
+01-19 18:21:24.763  2957  2957 D dalvikvm: create interp thread : stack size=32KB
+01-19 18:21:24.763  2957  2957 D dalvikvm: create new thread
+01-19 18:21:24.763  2957  2957 D dalvikvm: update thread list
+01-19 18:21:24.774  2957  2970 D dalvikvm: threadid=10: interp stack at 0x527ef000
+01-19 18:21:24.774  2957  2970 D dalvikvm: threadid=10: created from interp
+01-19 18:21:24.786  2957  2957 D dalvikvm: start new thread
+01-19 18:21:24.800  2957  2970 D dalvikvm: threadid=10: notify debugger
+01-19 18:21:24.800  2957  2970 D dalvikvm: threadid=10 (SharedPreferencesImpl-load): calling run()
+01-19 18:21:24.801  2957  2970 D dalvikvm: threadid=10: exiting
+01-19 18:21:24.801  2957  2970 D dalvikvm: threadid=10: bye!
+01-19 18:21:24.817  2957  2957 I MX      : Application=[MX Log Collector] Version=[1.12] Manufacturer=[TCT] Model=[ALCATEL ONE TOUCH 5020D] Display=[Jelly Bean] Brand=[TCT] Product=[Megane] Android=[4.1.1]
+01-19 18:21:24.821  2957  2957 I MX      : Installer=[com.android.vending]
+01-19 18:21:24.872  2957  2957 V MX.LogCollector: Create Activity
+01-19 18:21:25.292  2957  2957 V MX.LogCollector: Create Activity
+01-19 18:21:25.449  2957  2957 D libEGL  : loaded /vendor/lib/egl/libEGL_mtk.so
+01-19 18:21:25.530  2957  2957 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_mtk.so
+01-19 18:21:25.534  2957  2957 D libEGL  : loaded /vendor/lib/egl/libGLESv2_mtk.so
+01-19 18:21:25.619  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:21:25.628  2957  2957 D OpenGLRenderer: Enabling debug mode 0
+01-19 18:21:25.658  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:21:25.701  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:21:25.740  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:21:25.900  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:21:25.932  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:21:25.977  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:21:25.994  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:21:27.291  2957  2957 I SurfaceTextureClient: [0x4fb17c60] frames:2, duration:1.345000, fps:1.485914
+01-19 18:21:27.294  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 18:21:32.108  2957  2957 I SurfaceTextureClient: [0x4fb17c60] frames:2, duration:4.819000, fps:0.414993
+01-19 18:21:32.178  2957  2957 V Provider/Setting: invalidate [system]: current 638 != cached 0
+01-19 18:21:32.181  2957  2957 V Provider/Setting: from db cache, name = sound_effects_enabled value = 0
+01-19 18:21:32.206  2957  2957 D dalvikvm: create interp thread : stack size=32KB
+01-19 18:21:32.206  2957  2957 D dalvikvm: create new thread
+01-19 18:21:32.207  2957  2957 D dalvikvm: update thread list
+01-19 18:21:32.207  2957  3010 D dalvikvm: threadid=10: interp stack at 0x534d9000
+01-19 18:21:32.207  2957  3010 D dalvikvm: threadid=10: created from interp
+01-19 18:21:32.207  2957  2957 D dalvikvm: start new thread
+01-19 18:21:32.218  2957  3010 D dalvikvm: threadid=10: notify debugger
+01-19 18:21:32.218  2957  3010 D dalvikvm: threadid=10 (java.lang.ProcessManager): calling run()

@@ -1,0 +1,27 @@
+--------- beginning of /dev/log/system
+01-19 22:46:25.196  2957  2957 D ActivityThread: ACT-SHOW_WINDOW handled : 0 / android.os.BinderProxy@418a4470
+01-19 22:46:25.196  2957  2957 D ActivityThread: ACT-SHOW_WINDOW handled : 0 / android.os.BinderProxy@417e8808
+--------- beginning of /dev/log/main
+01-19 22:46:25.497  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 22:46:25.545  2957  2957 V InputMethodManager: onWindowFocus: null softInputMode=35 first=true flags=#1810100
+01-19 22:46:25.545  2957  2957 V InputMethodManager: Starting input: view=com.android.internal.policy.impl.PhoneWindow$DecorView@4180c7f8
+01-19 22:46:25.545  2957  2957 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@417f49b0 ic=null
+01-19 22:46:25.545  2957  2957 V InputMethodManager: START INPUT: com.android.internal.policy.impl.PhoneWindow$DecorView@4180c7f8 ic=null tba=android.view.inputmethod.EditorInfo@417f49b0 controlFlags=#104
+01-19 22:46:25.557  2957  2957 V InputMethodManager: Starting input: Bind result=InputBindResult{com.android.internal.view.IInputMethodSession$Stub$Proxy@41812a48 com.touchtype.swiftkey.tcl.phone/com.touchtype.KeyboardService #729}
+01-19 22:46:25.691  2957  2957 V MX.LogCollector: Create Activity
+01-19 22:46:26.152  2957  2957 D ActivityThread: ACT-AM_ON_RESUME_CALLED ActivityRecord{417f6aa8 token=android.os.BinderProxy@417e3148 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-19 22:46:26.176  2957  2957 D ActivityThread: ACT-LAUNCH_ACTIVITY handled : 0 / ActivityRecord{417f6aa8 token=android.os.BinderProxy@417e3148 {com.mxtech.logcollector/com.mxtech.logcollector.ActivityCollector}}
+01-19 22:46:26.176  2957  2957 I Choreographer: Skipped 33 frames!  The application may be doing too much work on its main thread.
+01-19 22:46:26.257  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 22:46:26.514  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 22:46:26.658  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 22:46:26.816  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 22:46:26.923  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 22:46:27.337  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 22:46:27.389  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 22:46:28.609  2957  2957 I SurfaceTextureClient: [0x533ab978] frames:2, duration:1.669000, fps:1.197877
+01-19 22:46:28.625  2957  2957 W MMUMapper: fail to register MVA, unsupported format(0x5)
+01-19 22:46:31.986  2957  2957 I SurfaceTextureClient: [0x533ab978] frames:1, duration:3.367000, fps:0.296926
+01-19 22:46:32.971  2957  2957 I SurfaceTextureClient: [0x533ab978] frames:3, duration:1.003000, fps:2.990367
+01-19 22:46:33.202  2957  2957 V Provider/Setting: invalidate [system]: current 704 != cached 638
+01-19 22:46:33.203  2957  2957 V Provider/Setting: from db cache, name = sound_effects_enabled value = 0

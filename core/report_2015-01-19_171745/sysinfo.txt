@@ -1,0 +1,24 @@
+=========================
+Producent: TCT
+Model: ALCATEL ONE TOUCH 5020D
+Marka: TCT
+Wersja: 4.1.1 (REL)
+Kompilacja: TCT/Megane/Megane_GSM:4.1.1/JRO03C/vBBX-0:user/release-keys
+Jądro: Linux version 3.4.0 (android-bld@td-swd2-building) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 PREEMPT Wed Jun 5 15:30:08 CST 2013
+CPU: 1 core(s) 1 GHz (family:1 features:63)
+Architektura procesora: 7
+Funkcje procesora: swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls
+Zarządca platformy: 
+Zestaw instrukcji: armeabi-v7a (+armeabi)
+Rozdzielczość: 480 x 800
+Dostępne miejsce na ekranie(DIP): 320 x 508 (smallest: 320)
+Tablet: false
+Rozmiar ekranu: Normal
+Gęstość: 1.5 (240)
+Skala czcionki: 1.0
+Główny przycisk sprzętowy: false
+Ustawienia regionalne: pl_PL
+Całkowita pamięć: 483436 kB (483436kB)
+Wolna pamięć: 43632 kB
+=========================
+
