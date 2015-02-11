@@ -48,8 +48,8 @@
     <string name="drop_changes">Continue</string>
     <string name="back">Back</string>
 
-    <string name="work_days">Work days: </string>
-    <string name="diff">Diff: </string>
+    <string name="work_days">Work days </string>
+    <string name="diff">Diff </string>
 
 
     <string name="conf">com.rec.kuciaba.andrzej.officetime.conf_file</string>

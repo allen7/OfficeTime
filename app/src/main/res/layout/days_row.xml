@@ -3,123 +3,169 @@
     android:layout_width="match_parent" android:layout_height="match_parent"
     android:background="#E6E6E6">
     <LinearLayout
+        android:id="@+id/cell1"
         android:layout_weight="1"
         android:layout_height="fill_parent"
         android:orientation="vertical"
+        android:background="@drawable/cell"
         >
-    <TextView android:background="@drawable/cell"
+    <TextView
         android:id="@+id/day1"
         android:padding="5dp"
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:text=""/>
-        <TextView android:background="@drawable/cell"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=""
+        android:textSize="@dimen/abc_text_size_medium_material"/>
+        <TextView
             android:id="@+id/hours1"
             android:padding="5dp"
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text=""
+            android:gravity="center"/>
     </LinearLayout>
     <LinearLayout
+        android:id="@+id/cell2"
         android:layout_weight="1"
         android:layout_height="fill_parent"
         android:orientation="vertical"
+        android:background="@drawable/cell"
         >
-        <TextView android:background="@drawable/cell"
+        <TextView
             android:id="@+id/day2"
             android:padding="5dp"
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-        <TextView android:background="@drawable/cell"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text=""
+            android:textSize="@dimen/abc_text_size_medium_material"/>
+        <TextView
             android:id="@+id/hours2"
             android:padding="5dp"
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-    </LinearLayout>
-    <LinearLayout
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text=""
+            android:gravity="center"/>
+    </LinearLayout><LinearLayout
+    android:id="@+id/cell3"
+    android:layout_weight="1"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/cell"
+    >
+    <TextView
+        android:id="@+id/day3"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
         android:layout_weight="1"
-        android:layout_height="fill_parent"
-        android:orientation="vertical"
-        >
-        <TextView android:background="@drawable/cell"
-            android:id="@+id/day3"
-            android:padding="5dp"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-        <TextView android:background="@drawable/cell"
-            android:id="@+id/hours3"
-            android:padding="5dp"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-    </LinearLayout>
-    <LinearLayout
+        android:text=""
+        android:textSize="@dimen/abc_text_size_medium_material"/>
+    <TextView
+        android:id="@+id/hours3"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
         android:layout_weight="1"
-        android:layout_height="fill_parent"
-        >
-        <TextView android:background="@drawable/cell"
-            android:id="@+id/day4"
-            android:padding="5dp"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-    </LinearLayout>
-    <LinearLayout
+        android:text=""
+        android:gravity="center"/>
+</LinearLayout><LinearLayout
+    android:id="@+id/cell4"
+    android:layout_weight="1"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/cell"
+    >
+    <TextView
+        android:id="@+id/day4"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
         android:layout_weight="1"
-        android:layout_height="fill_parent"
-        android:orientation="vertical"
-        >
-        <TextView android:background="@drawable/cell"
-            android:id="@+id/day5"
-            android:padding="5dp"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-        <TextView android:background="@drawable/cell"
-            android:id="@+id/hours5"
-            android:padding="5dp"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-    </LinearLayout>
-    <LinearLayout
+        android:text=""
+        android:textSize="@dimen/abc_text_size_medium_material"/>
+    <TextView
+        android:id="@+id/hours4"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
         android:layout_weight="1"
-        android:layout_height="fill_parent"
-        android:orientation="vertical"
-        >
-        <TextView android:background="@drawable/cell"
-            android:id="@+id/day6"
-            android:padding="5dp"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-        <TextView android:background="@drawable/cell"
-            android:id="@+id/hours6"
-            android:padding="5dp"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-    </LinearLayout>
-    <LinearLayout
+        android:text=""
+        android:gravity="center"/>
+</LinearLayout><LinearLayout
+    android:id="@+id/cell5"
+    android:layout_weight="1"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/cell"
+    >
+    <TextView
+        android:id="@+id/day5"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
         android:layout_weight="1"
-        android:layout_height="fill_parent"
-        android:orientation="vertical"
-        >
-        <TextView android:background="@drawable/cell"
-            android:id="@+id/day7"
-            android:padding="5dp"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-        <TextView android:background="@drawable/cell"
-            android:id="@+id/hours7"
-            android:padding="5dp"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:text=""/>
-    </LinearLayout>
+        android:text=""
+        android:textSize="@dimen/abc_text_size_medium_material"/>
+    <TextView
+        android:id="@+id/hours5"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=""
+        android:gravity="center"/>
+</LinearLayout><LinearLayout
+    android:id="@+id/cell6"
+    android:layout_weight="1"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/cell_weekend"
+    >
+    <TextView
+        android:id="@+id/day6"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=""
+        android:textSize="@dimen/abc_text_size_medium_material"
+        />
+    <TextView
+        android:id="@+id/hours6"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=""
+        android:gravity="center"/>
+</LinearLayout><LinearLayout
+    android:id="@+id/cell7"
+    android:layout_weight="1"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/cell_weekend"
+    >
+    <TextView
+        android:id="@+id/day7"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=""
+        android:textSize="@dimen/abc_text_size_medium_material"
+        />
+    <TextView
+        android:id="@+id/hours7"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=""
+        android:gravity="center"/>
+</LinearLayout>
 
 </TableRow>

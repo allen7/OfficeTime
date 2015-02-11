@@ -29,13 +29,14 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/wor_days"
+                android:id="@+id/work_days"
                 android:text="@string/work_days"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="0"
-                android:layout_toRightOf="@id/wor_days"/>
+                android:id="@+id/work_days_value"
+                android:layout_toRightOf="@id/work_days"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

@@ -2,21 +2,18 @@ package com.rec.kuciaba.andrzej.officetime;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.Locale;
 
+import android.app.Dialog;
 import android.content.Intent;
 import android.graphics.Color;
 import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentTransaction;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.util.Log;
-import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -171,6 +168,9 @@ public class TimeBrowser extends ActionBarActivity {
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
+            int noOfDays = 0;
+            long workedTime = 0;
+
             View rootView = inflater.inflate(R.layout.fragment_time_browser, container, false);
             TableLayout table = (TableLayout)rootView.findViewById(R.id.calendar_table);
             TableRow row = new TableRow(getActivity());
@@ -210,27 +210,73 @@ public class TimeBrowser extends ActionBarActivity {
                         switch (weekDays[i]){
                             case Calendar.MONDAY:
                                 dayTextView = (TextView)rowView.findViewById(R.id.day1);
+                                timeView = (TextView)rowView.findViewById(R.id.hours1);
+                                dayView = (LinearLayout)rowView.findViewById(R.id.cell1);
                                 break;
                             case Calendar.TUESDAY:
                                 dayTextView = (TextView)rowView.findViewById(R.id.day2);
+                                timeView = (TextView)rowView.findViewById(R.id.hours2);
+                                dayView = (LinearLayout)rowView.findViewById(R.id.cell2);
                                 break;
                             case Calendar.WEDNESDAY:
                                 dayTextView = (TextView)rowView.findViewById(R.id.day3);
+                                timeView = (TextView)rowView.findViewById(R.id.hours3);
+                                dayView = (LinearLayout)rowView.findViewById(R.id.cell3);
                                 break;
                             case Calendar.THURSDAY:
                                 dayTextView = (TextView)rowView.findViewById(R.id.day4);
+                                timeView = (TextView)rowView.findViewById(R.id.hours4);
+                                dayView = (LinearLayout)rowView.findViewById(R.id.cell4);
                                 break;
                             case Calendar.FRIDAY:
                                 dayTextView = (TextView)rowView.findViewById(R.id.day5);
+                                timeView = (TextView)rowView.findViewById(R.id.hours5);
+                                dayView = (LinearLayout)rowView.findViewById(R.id.cell5);
                                 break;
                             case Calendar.SATURDAY:
                                 dayTextView = (TextView)rowView.findViewById(R.id.day6);
+                                timeView = (TextView)rowView.findViewById(R.id.hours6);
+                                dayView = (LinearLayout)rowView.findViewById(R.id.cell6);
                                 break;
                             case Calendar.SUNDAY:
                                 dayTextView = (TextView)rowView.findViewById(R.id.day7);
+                                timeView = (TextView)rowView.findViewById(R.id.hours7);
+                                dayView = (LinearLayout)rowView.findViewById(R.id.cell7);
                                 break;
                         }
                         if(dayTextView!=null) {
+                            DBHelper dbHelper = new DBHelper(getActivity());
+                            long start = dbHelper.getDateTime(new SimpleDateFormat("dd.MM.yyyy").format(calendar.getTime()), 0);
+                            long end = dbHelper.getDateTime(new SimpleDateFormat("dd.MM.yyyy").format(calendar.getTime()), 1);
+                            long dayDiff = dbHelper.getDateTime(new SimpleDateFormat("dd.MM.yyyy").format(calendar.getTime()), 2);
+
+                            dayView.setOnClickListener(new View.OnClickListener() {
+                                @Override
+                                public void onClick(View v) {
+                                    modificationDialog();
+                                }
+                            });
+                            dayView.setClickable(true);
+
+                            if(start!=0 || dayDiff!=0){
+                                long dayTime = 0;
+                                if(end!=0 && Calendar.getInstance().get(Calendar.DAY_OF_YEAR)!= calendar.get(Calendar.DAY_OF_YEAR)){
+                                    noOfDays++;
+                                    dayView.setBackground(getResources().getDrawable(R.drawable.cell_worked));
+                                    dayTime = ((end-start)+dayDiff)/1000/60;
+//                                    timeView.setText(dayTime/60+":"+dayTime%60);
+                                    workedTime += end - start +dayDiff;
+                                }
+                                else if(end!=0 && Calendar.getInstance().get(Calendar.DAY_OF_YEAR)== calendar.get(Calendar.DAY_OF_YEAR)){
+                                    dayView.setBackground(getResources().getDrawable(R.drawable.cell_today));
+                                    dayTime = ((end-start)+dayDiff)/1000/60;
+                                    long now = Calendar.getInstance().getTimeInMillis();
+                                    if(now-end<=5*60*1000){
+                                        dayTime = ((now-start)+dayDiff)/1000/60;
+                                    }
+                                }
+                                timeView.setText(dayTime/60+":"+(dayTime%60<10?"0":"")+dayTime%60);
+                            }
                             dayTextView.setText(calendar.get(Calendar.DAY_OF_MONTH) + "");
                         }
                         calendar.set(Calendar.DAY_OF_YEAR, calendar.get(Calendar.DAY_OF_YEAR)+1);
@@ -239,9 +285,48 @@ public class TimeBrowser extends ActionBarActivity {
                 if(calendar.get(Calendar.MONTH)!=month) lastDayReached=true;
                 table.addView(rowView);
             }
-
+            ((TextView)rootView.findViewById(R.id.work_days_value)).setText(" "+Integer.toString(noOfDays));
+            workedTime = (workedTime/1000/60)-noOfDays*8*60;
+            boolean negativeValue = false;
+            if(workedTime<0){
+                negativeValue=true;
+               workedTime*=(-1);
+            }
+            ((TextView)rootView.findViewById(R.id.diff_value)).setText(" "+(negativeValue?"-":"")+workedTime/60+":"+(workedTime%60<10?"0":"")+workedTime%60);
 
             return rootView;
+        }
+
+        private long modificationDialog(){
+            long changeValue = 0;
+            final Dialog dialog = new Dialog(getActivity());
+            dialog.setContentView(R.layout.number_picker_layout);
+//            dialog.setTitle("Interval for "+ mBlankIntervals.get(v.getId()));
+//            NumberPicker np = (NumberPicker) dialog.findViewById(R.id.number_picker);
+//            np.setMaxValue(30);
+//            np.setMinValue(0);
+//            np.setValue(mIntervalsValues.get(text.getId()));
+//            np.setWrapSelectorWheel(false);
+//            Button dialogOkButton = (Button)dialog.findViewById(R.id.ok);
+//            dialogOkButton.setOnClickListener(new View.OnClickListener() {
+//                @Override
+//                public void onClick(View v) {
+//                    mIntervalsValues.put(text.getId(), ((NumberPicker) dialog.findViewById(R.id.number_picker)).getValue());
+//                    ((TextView)findViewById(text.getId())).setText(mBlankIntervals.get(text.getId())+" "+ mIntervalsValues.get(text.getId()));
+////                ((TextView) findViewById(R.id.interval_in_00_06)).setText(R.string.);
+//                    mConfigChanged = true;
+//                    dialog.dismiss();
+//                }
+//            });
+//            Button dialogCancelButton = (Button)dialog.findViewById(R.id.cancel_button);
+//            dialogCancelButton.setOnClickListener(new View.OnClickListener() {
+//                @Override
+//                public void onClick(View v) {
+//                    dialog.dismiss();
+//                }
+//            });
+            dialog.show();
+            return changeValue;
         }
 
         @Override
