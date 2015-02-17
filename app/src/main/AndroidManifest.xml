@@ -19,7 +19,7 @@
             android:name=".autostart"
             android:enabled="false" >
             <intent-filter>
-                <action android:name="android.intent.actikon.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
         <receiver android:name=".brChecker" >
@@ -35,7 +35,7 @@
             <!--</intent-filter>-->
         <!--</activity>-->
 
-      
+
 
         <activity
             android:name=".TimeBrowser"
