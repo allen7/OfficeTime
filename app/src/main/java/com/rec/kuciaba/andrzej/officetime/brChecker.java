@@ -113,15 +113,12 @@ public class brChecker extends BroadcastReceiver{
 
                 if (!(Calendar.SUNDAY == now.get(Calendar.DAY_OF_WEEK) && !m_sunday || Calendar.SATURDAY == now.get(Calendar.DAY_OF_WEEK) && !m_sathurday)) {
                     if ((m_intervals.get(hour) != 0 && minutes % m_intervals.get(hour) == 0) || true) {
-//                    List<ScanResult> networks = findWiFis();
                         WifiChecker wifi = new WifiChecker();
                         Boolean networkFound = wifi.findRECNetwork(mContext);
                         if (networkFound) {
                             Calendar past = Calendar.getInstance();
                             past.setTimeInMillis(m_startDay);
                             if (!(now.get(Calendar.YEAR) == past.get(Calendar.YEAR) && now.get(Calendar.DAY_OF_YEAR) == past.get(Calendar.DAY_OF_YEAR))) {
-//                            past.setTimeInMillis(now.getTimeInMillis());
-//                            m_startDay = past.getTimeInMillis();
                                 m_startDay = now.getTimeInMillis();
                                 m_dhHelper.addTime(m_startDay, m_dateFormat.format(now.getTime()), 0);
                                 m_dhHelper.addTime(m_startDay, m_dateFormat.format(now.getTime()), 1);
@@ -131,7 +128,6 @@ public class brChecker extends BroadcastReceiver{
                             }
                             m_endDay = now.getTimeInMillis();
                         }
-//                    m_dhHelper.addTime(m_startDay, m_dateFormat.format(now.getTime()),0);
                         if (!networkFound) {
                             mNotify.clearNotification(mContext);
                             if (m_startDay != 0 && m_shiftTime - (m_endDay - m_startDay) > m_shiftTime * 0.1 && now.getTimeInMillis() - m_startDay > m_shiftTime * 1.1) {
@@ -144,35 +140,26 @@ public class brChecker extends BroadcastReceiver{
                                 mNotify.manageOvertimeNotification(mContext, m_startDay, m_endDay, m_shiftTime);
                             }
                         }
-
-
-//                    else if(m_startDay != 0 && m_endDay - m_startDay <= m_shiftTime - m_shiftTime*0.05){
-//                        clearNotification();
-//                    }
                     }
                 }
-//        manageNotification();
-//            String text = "Update: " + m_timeFormat.format(now.getTime());
-//            popUpNotification(mContext,"Running " + seconds, text, 2, R.drawable.overtime);
-//            clearNotification();
             } catch (Exception e) {
                 Log.e("officetitme::onReceive", "AK_ exception " + e.toString());
             }
             if (m_intervals.get(hour) != 0 && minutes + m_intervals.get(hour) < 60 && (!(Calendar.SUNDAY == now.get(Calendar.DAY_OF_WEEK) && !m_sunday || Calendar.SATURDAY == now.get(Calendar.DAY_OF_WEEK) && !m_sathurday))) {
                 setOperation(mContext, m_intervals.get(hour));
-                Log.e("AK__", "time " + m_intervals.get(hour));
-                String text = "Update: " + m_timeFormat.format(now.getTime());
-                popUpNotification(mContext, "Running " + m_intervals.get(hour), text, 2, R.drawable.overtime);
+//                Log.e("AK__", "time " + m_intervals.get(hour));
+//                String text = "Update: " + m_timeFormat.format(now.getTime());
+//                popUpNotification(mContext, "Running " + m_intervals.get(hour), text, 2, R.drawable.overtime);
             } else if (minutes + 15 > 59) {
                 setOperation(mContext, m_intervals.get(60 - minutes));
-                Log.e("AK__", "time " + m_intervals.get(60 - minutes));
-                String text = "Update: " + m_timeFormat.format(now.getTime());
-                popUpNotification(mContext, "Running " + (60 - minutes), text, 2, R.drawable.overtime);
+//                Log.e("AK__", "time " + m_intervals.get(60 - minutes));
+//                String text = "Update: " + m_timeFormat.format(now.getTime());
+//                popUpNotification(mContext, "Running " + (60 - minutes), text, 2, R.drawable.overtime);
             } else {
                 setOperation(mContext, (15));
-                Log.e("AK__", "time 0  " + (15));
-                String text = "Update: " + m_timeFormat.format(now.getTime());
-                popUpNotification(mContext, "Running " + 15, text, 2, R.drawable.overtime);
+//                Log.e("AK__", "time 0  " + (15));
+//                String text = "Update: " + m_timeFormat.format(now.getTime());
+//                popUpNotification(mContext, "Running " + 15, text, 2, R.drawable.overtime);
             }
 
 
@@ -195,33 +182,33 @@ public class brChecker extends BroadcastReceiver{
     }
 
 
-    public void popUpNotification(Context context, String title, String contextText, int id, int icon){
-
-        NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context);
-        mBuilder.setSmallIcon(icon);
-
-        mBuilder.setContentTitle(title);
-//        mBuilder.setLargeIcon(generateIcon());
-
-        mBuilder.setContentText(contextText);
-
-        Intent resultInt = new Intent(context, NotifyActivity.class);
-        TaskStackBuilder stackBuilder = TaskStackBuilder.create(context);
-        stackBuilder.addParentStack(NotifyActivity.class);
-
-        stackBuilder.addNextIntent(resultInt);
-        PendingIntent resultPendingIntend = stackBuilder.getPendingIntent(0, PendingIntent.FLAG_UPDATE_CURRENT);
-        mBuilder.setContentIntent(resultPendingIntend);
-
-        NotificationManager mNotficationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
-//        mNotficationManager.notify(id, mBuilder.build());
-        Notification notice = mBuilder.build();
-//        notice.flags |= Notification.FLAG_NO_CLEAR;
-//        notice.flags |= Notification.FLAG_FOREGROUND_SERVICE;
-//        notice.priority = Notification.PRIORITY_MAX;
-        mNotficationManager.notify(id, notice);
-//        startForeground(id, notice);
-    }
+//    public void popUpNotification(Context context, String title, String contextText, int id, int icon){
+//
+//        NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context);
+//        mBuilder.setSmallIcon(icon);
+//
+//        mBuilder.setContentTitle(title);
+////        mBuilder.setLargeIcon(generateIcon());
+//
+//        mBuilder.setContentText(contextText);
+//
+//        Intent resultInt = new Intent(context, NotifyActivity.class);
+//        TaskStackBuilder stackBuilder = TaskStackBuilder.create(context);
+//        stackBuilder.addParentStack(NotifyActivity.class);
+//
+//        stackBuilder.addNextIntent(resultInt);
+//        PendingIntent resultPendingIntend = stackBuilder.getPendingIntent(0, PendingIntent.FLAG_UPDATE_CURRENT);
+//        mBuilder.setContentIntent(resultPendingIntend);
+//
+//        NotificationManager mNotficationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
+////        mNotficationManager.notify(id, mBuilder.build());
+//        Notification notice = mBuilder.build();
+////        notice.flags |= Notification.FLAG_NO_CLEAR;
+////        notice.flags |= Notification.FLAG_FOREGROUND_SERVICE;
+////        notice.priority = Notification.PRIORITY_MAX;
+//        mNotficationManager.notify(id, notice);
+////        startForeground(id, notice);
+//    }
 
 }
 

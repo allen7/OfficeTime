@@ -34,14 +34,15 @@ public class DBHelper extends SQLiteOpenHelper {
         db.insertOrThrow("networkEvents",null, values);
     }
 
-    public void updateTime(long time, String date, Integer type){
+    public int updateTime(long time, String date, Integer type){
         SQLiteDatabase db =  getWritableDatabase();
         ContentValues values = new ContentValues();
         values.put("time",time);
 //        values.put("date",date);
 //        values.put("type",type);
 //        db.insertOrThrow("networkEvents",null, values);
-        db.update("networkEvents", values, "date=? and type=?", new String[]{date, type.toString()});
+
+        return db.update("networkEvents", values, "date=? and type=?", new String[]{date, type.toString()});
     }
 
     public long getDateTime(String date, Integer type){

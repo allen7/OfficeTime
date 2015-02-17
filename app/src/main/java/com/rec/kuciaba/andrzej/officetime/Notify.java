@@ -21,7 +21,6 @@ public class Notify {
 
     public void manageNotification(Context context, long m_startDay, long m_endDay, long m_shiftTime){
         Calendar startTime = Calendar.getInstance();
-//        long now = startTime.getTimeInMillis();
         startTime.setTimeInMillis(m_startDay);
 
         long timeLeft = (m_startDay + m_shiftTime - m_endDay)/60000;
@@ -29,7 +28,6 @@ public class Notify {
         int minsLeft = (int)(timeLeft-hoursLeft*60);
 
         String title = "Time left: " + hoursLeft + ":" + (minsLeft<10?"0":"") +minsLeft;
-//        SimpleDateFormat format = new SimpleDateFormat("d, yyyy 'at' h:mm a");
         String text = "Work start: " + m_timeFormat.format(startTime.getTime());
 
         popUpNotification(context, title, text, 1, R.drawable.ic_launcher);
@@ -57,26 +55,20 @@ public class Notify {
         mBuilder.setSmallIcon(icon);
 
         mBuilder.setContentTitle(title);
-//        mBuilder.setLargeIcon(generateIcon());
 
         mBuilder.setContentText(contextText);
 
-        Intent resultInt = new Intent(context, NotifyActivity.class);
+        Intent resultInt = new Intent(context, TimeBrowser.class);
         TaskStackBuilder stackBuilder = TaskStackBuilder.create(context);
-        stackBuilder.addParentStack(NotifyActivity.class);
+        stackBuilder.addParentStack(TimeBrowser.class);
 
         stackBuilder.addNextIntent(resultInt);
         PendingIntent resultPendingIntend = stackBuilder.getPendingIntent(0, PendingIntent.FLAG_UPDATE_CURRENT);
         mBuilder.setContentIntent(resultPendingIntend);
 
         NotificationManager mNotficationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
-//        mNotficationManager.notify(id, mBuilder.build());
         Notification notice = mBuilder.build();
-//        notice.flags |= Notification.FLAG_NO_CLEAR;
-//        notice.flags |= Notification.FLAG_FOREGROUND_SERVICE;
-//        notice.priority = Notification.PRIORITY_MAX;
         mNotficationManager.notify(id, notice);
-//        startForeground(id, notice);
     }
 
     public void clearNotification(Context context){

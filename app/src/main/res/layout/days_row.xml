@@ -16,7 +16,8 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text=""
-        android:textSize="@dimen/abc_text_size_medium_material"/>
+        android:textSize="@dimen/abc_text_size_medium_material"
+        android:tag="day"/>
         <TextView
             android:id="@+id/hours1"
             android:padding="5dp"
@@ -24,7 +25,8 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:text=""
-            android:gravity="center"/>
+            android:gravity="center"
+            android:tag="@string/hours"/>
     </LinearLayout>
     <LinearLayout
         android:id="@+id/cell2"
@@ -39,8 +41,7 @@
             android:layout_width="fill_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:text=""
-            android:textSize="@dimen/abc_text_size_medium_material"/>
+            android:text=""/>
         <TextView
             android:id="@+id/hours2"
             android:padding="5dp"
@@ -48,7 +49,8 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:text=""
-            android:gravity="center"/>
+            android:gravity="center"
+            android:tag="@string/hours"/>
     </LinearLayout><LinearLayout
     android:id="@+id/cell3"
     android:layout_weight="1"
@@ -62,8 +64,7 @@
         android:layout_width="fill_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:text=""
-        android:textSize="@dimen/abc_text_size_medium_material"/>
+        android:text=""/>
     <TextView
         android:id="@+id/hours3"
         android:padding="5dp"
@@ -71,7 +72,8 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text=""
-        android:gravity="center"/>
+        android:gravity="center"
+        android:tag="@string/hours"/>
 </LinearLayout><LinearLayout
     android:id="@+id/cell4"
     android:layout_weight="1"
@@ -85,8 +87,7 @@
         android:layout_width="fill_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:text=""
-        android:textSize="@dimen/abc_text_size_medium_material"/>
+        android:text=""/>
     <TextView
         android:id="@+id/hours4"
         android:padding="5dp"
@@ -94,7 +95,8 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text=""
-        android:gravity="center"/>
+        android:gravity="center"
+        android:tag="@string/hours"/>
 </LinearLayout><LinearLayout
     android:id="@+id/cell5"
     android:layout_weight="1"
@@ -108,8 +110,7 @@
         android:layout_width="fill_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:text=""
-        android:textSize="@dimen/abc_text_size_medium_material"/>
+        android:text=""/>
     <TextView
         android:id="@+id/hours5"
         android:padding="5dp"
@@ -117,7 +118,8 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text=""
-        android:gravity="center"/>
+        android:gravity="center"
+        android:tag="@string/hours"/>
 </LinearLayout><LinearLayout
     android:id="@+id/cell6"
     android:layout_weight="1"
@@ -132,7 +134,6 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text=""
-        android:textSize="@dimen/abc_text_size_medium_material"
         />
     <TextView
         android:id="@+id/hours6"
@@ -141,7 +142,8 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text=""
-        android:gravity="center"/>
+        android:gravity="center"
+        android:tag="@string/hours"/>
 </LinearLayout><LinearLayout
     android:id="@+id/cell7"
     android:layout_weight="1"
@@ -156,7 +158,6 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text=""
-        android:textSize="@dimen/abc_text_size_medium_material"
         />
     <TextView
         android:id="@+id/hours7"
@@ -165,7 +166,8 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text=""
-        android:gravity="center"/>
+        android:gravity="center"
+        android:tag="@string/hours"/>
 </LinearLayout>
 
 </TableRow>

@@ -51,6 +51,7 @@
     <string name="work_days">Work days </string>
     <string name="diff">Diff </string>
 
+    <string name="hours">hours</string>
 
     <string name="conf">com.rec.kuciaba.andrzej.officetime.conf_file</string>
 
