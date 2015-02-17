@@ -35,9 +35,7 @@
             <!--</intent-filter>-->
         <!--</activity>-->
 
-        <service
-            android:name=".RECTimeService"
-            android:exported="false" />
+      
 
         <activity
             android:name=".TimeBrowser"
